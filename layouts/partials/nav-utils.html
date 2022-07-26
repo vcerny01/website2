@@ -1,24 +1,22 @@
-<div class="nav-utils">
-    <button id="search-button" class="fa-solid fa-magnifying-glass fa-lg"></button>
-    <button id="theme-toggle" class="fa-solid fa-brightness fa-xl" onclick="changeTheme()"></button>
-</div>
 <script>
     var docEl = document.documentElement;
     var themeButton = document.getElementById("theme-toggle");
     if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
         docEl.className = "light"; //change after testing
-        themeButton.className = "fa-solid fa-moon fa-xl";
+        //themeButton.className.replace("fa-sun", "fa-moon");
     }
     function changeTheme() {
         var theme = docEl.classList[0];
+        var temp = themeButton.className; 
         docEl.classList = [];
         if (theme === "dark"){
-            docEl.classList.add("light")
-            themeButton.className = "fa-solid fa-sun fa-xl";
+            docEl.classList.add("light");
+            themeButton.className = temp.replace("fa-moon", "fa-sun");
         }
         else {
             docEl.classList.add("dark");
-            themeButton.className = "fa-solid fa-moon fa-xl";
+            themeButton.className = temp.replace("fa-sun", "fa-moon");
         }
     }
 </script>
+<script src="/js/search.js" defer></script>
