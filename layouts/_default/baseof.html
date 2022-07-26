@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html class="light" lang="{{ .Site.LanguageCode }}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/base.css">
+	<script src="https://kit.fontawesome.com/cfed23d8b0.js" crossorigin="anonymous"></script>
+	{{block "head" .}}
+    
+	{{end}}
+	{{partial "favicon.html" .}}
+	<title>{{if .Params.title}}{{.Params.title}}{{else}}{{.File.BaseFileName}}{{end}}</title>
+</head>
+<body>
+	<div id="main-container">
+		{{block "header" .}}
+		{{end}}
+		<div id="main-content">
+			{{block "main" .}}
+			{{end}}
+		</div>
+	</div>
+	<div>
+		{{block "footer" .}}
+		{{end}}
+	</div>
+	{{partial "analytics.html" .}}
+</body>
+</html>
