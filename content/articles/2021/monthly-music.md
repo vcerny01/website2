@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Monthly Music: Introduction"
+cover: "https://i.ytimg.com/vi/tKia9mLiQqA/maxresdefault.jpg"
 date: 2021-10-03
 toc: true
 ---

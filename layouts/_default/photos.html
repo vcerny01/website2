@@ -1,0 +1,54 @@
+{{define "head"}}
+    <link rel="stylesheet" type="text/css" href="/css/photos.css">
+    {{partial "lightbox.html" .}}
+{{end}}
+
+{{define "header"}}
+    {{partial "navbar.html" .}}
+{{end}}
+
+{{define "main"}}
+<h1>{{.Params.title}}</h1>
+{{if .Params.date}}
+<div class="meta-container">
+    <div class="metadata">
+    <div style="padding-top: 3px;"><span>Published:</span> {{ time.Format "Jan 2, 2006" .Params.date}}</div>
+    </div>
+</div>
+{{end}}
+<section>
+    {{.Content}}
+</section>
+        
+ <article>
+    {{$path := (printf "%s%s" "static/images/gallery/" .Params.data)}}
+    {{$contents := readDir $path}}
+     {{range seq (len $contents)}}
+        {{$name := (printf "%s%s" (string .) ".webp")}}
+        {{$filename := printf "%s/%s" (replace $path "static" "") $name}}
+        {{$desc := ""}}
+        {{$name = (replace $name ".jpg" "")}}
+        {{range $.Params.descriptions}}
+            {{range $ek, $ev := .}}
+                {{if eq $ek $name}}
+                    {{$desc = $ev}}
+                {{end}}
+            {{end}}
+        {{end}}
+            <div class="gallery">
+                <a href="{{$filename}}" class="glightbox" dsata-title="{{$desc}}">
+                    <img src="{{$filename}}" alt="{{$desc}}">
+                </a>
+            </div>
+    {{end}}
+</article>
+<script>
+    const lightbox = GLightbox({
+        touchNavigation: true,
+        loop: false,
+    });
+</script>
+{{end}}
+{{define "footer"}}
+{{partial "footer.html" .}}
+{{end}}

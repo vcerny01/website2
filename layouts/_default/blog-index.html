@@ -1,0 +1,59 @@
+{{define "head"}}
+    <link rel="stylesheet" type="text/css" href="/css/list.css">
+{{end}}
+
+{{define "header"}}
+    {{partial "navbar.html"}}
+{{end}}
+
+{{define "main"}}
+<h1>{{.Params.title}}</h1>
+    <section>
+       {{.Content}}
+    </section>
+    <div>
+        {{partial "list-filter.html" .}}
+        <div id="listToFilter">
+
+            {{/*  ITEMS WITHOUT DATE  */}}
+            {{range (where .Site.RegularPages "Section" (lower .Params.title)).ByDate.Reverse}}
+                {{if not .Params.date}}<li><a href="{{.RelPermalink}}">{{.Params.title}}</a></li>{{end}}
+            {{end}}
+
+            {{/*  ITEMS WITH DATE  */}}
+            {{$date := ""}}
+            <div>
+            {{range (where .Site.RegularPages "Section" (lower .Params.title)).ByDate.Reverse}}
+
+                {{if .Params.date}}
+                    {{if (not (eq $date (time.Format "2006" .Params.date)))}}
+                        {{$date = time.Format "2006" .Params.date}}
+                        </div>
+                        <h2>{{$date}}</h2>
+                        <div class="items">
+                        <br>
+                    {{end}}
+                <a href="{{.RelPermalink}}" title="{{.Params.title}}"><div class="item">
+                    <div class="item-img-container">
+                        {{$temp := ""}}
+                        {{if .Params.data}}
+                            {{$temp = (printf "%s%s%s" "/images/gallery/" .Params.data "/1.webp")}}
+                        {{else}}
+                            {{$temp = .Params.cover}}
+                        {{end}}
+                        <img src="{{$temp}}">
+                    </div>
+                    <div class="item-desc">
+                        <div class="item-name">
+                            {{.Params.title}}
+                        </div>
+                        <div class="item-date">
+                            {{time.Format "Jan 2, 2006" .Params.date}}
+                        </div>
+                    </div>
+                </div></a>
+                {{end}}
+            {{end}}
+        </div>
+    </div>
+{{end}}

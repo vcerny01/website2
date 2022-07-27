@@ -2,6 +2,7 @@
 title: Recent Changes
 toc: true
 layout: article
+cover: /images/gallery/2019/2/3.webp
 date: "2022-02-19"
 ---
 

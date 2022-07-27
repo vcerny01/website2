@@ -1,0 +1,35 @@
+.gallery img {
+	max-width: 100%;
+	max-height: 100%;
+	padding: 0;
+	margin: 0;
+	border: none;
+}
+article {
+	max-width: 1000px;
+	flex-direction: row;
+	display: flex;
+	justify-content: center;
+	gap: 4px;
+	flex-wrap: wrap;
+}
+header {
+	margin-bottom: 1rem;
+}
+section{
+	padding-bottom: 1rem;
+	margin: 2rem;
+}
+.gallery {
+	height: 250px;
+	width: fit-content;
+	border:  3px solid var(--secondary-link-color);
+}
+.gallery:hover {
+	border: 2px solid var(--secondary-bg-color);
+}
+@media only screen and (max-width:  700px){
+	.gallery {
+		height: 30vw;
+	}
+}

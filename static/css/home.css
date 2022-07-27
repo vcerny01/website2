@@ -1,5 +1,6 @@
 p {
-    margin: 0;
+    margin:0;
+    margin-bottom: 0.5rem;
     padding: 0;
 }
 
@@ -10,19 +11,25 @@ h1 {
     font-weight: 400;
 }
 
+h4 {
+    padding: 0;
+    margin: 0;
+}
+
 .links a {
     padding-right: 1em;
+    color: var(--secondary-link-color);
 }
 .links a:hover {
     text-decoration: none;
-    color: var(--terciary-bg-color);
+    color: var(--secondary-bg-color);
 }
 
 .column:nth-of-type(3) img{
     max-width: 100px;
     float: right;
     border-radius: 0%;
-    border: var(--terciary-bg-color) solid 4px;
+    border: var(--secondary-bg-color) solid 4px;
     margin-left: 2rem;
     margin-top: 0.25rem;
     margin-bottom: 2rem;
@@ -32,6 +39,7 @@ h1 {
     align-items: center;
     gap: 1rem
 }
+
 
 @media only screen and (max-width: 800px)
 {
@@ -85,7 +93,7 @@ h1 {
         padding-right: 2rem;
     }
     .column:nth-of-type(2) {
-        padding-top: 1rem;
+        padding-top: 1.5rem;
     }
     .column:nth-of-type(4) {
         padding-top: 1rem;

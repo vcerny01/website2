@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Notes on Note-Taking
+cover: "https://i.ytimg.com/vi/Fiv-XEivC_Q/maxresdefault.jpg"
 date: 2021-06-03
 toc: true
 ---
