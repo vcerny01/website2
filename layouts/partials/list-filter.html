@@ -1,20 +1,19 @@
 <div class="filter-field">
-    <input id="filter" onkeyup="filterUl()" , placeholder="Filter items">
+    <input id="filter" onkeyup="filterStuff()" , placeholder="Filter items">
     <script defer>
-        function filterUl() {
-            var input, filter, ul, li, i, txtValue;
-            input = document.getElementById("filter");
-            filter = input.value.toLowerCase();
-            ul = document.getElementById("listToFilter");
-            li = ul.getElementsByTagName("li");
-            for (i = 0; i < li.length; i++) {
-                txtValue = li[i].textContent;
-                if (txtValue.toLowerCase().indexOf(filter) > -1) {
-                    li[i].style.display = "";
-                } else {
-                    li[i].style.display = "none";
+        function filterStuff() {
+            var input = document.getElementById("filter");
+            var filter = input.value.toLowerCase();
+            var elements = document.getElementsByClassName("item");
+            for(let i = 0; i < elements.length; i++){
+                txt = elements[i].textContent;
+                if (txt.toLowerCase().includes(filter)){
+                    elements[i].style.display = ""
                 }
-            }
+                else {
+                    elements[i].style.display = "none";
+                }
+            }  
         }
     </script>
 </div>

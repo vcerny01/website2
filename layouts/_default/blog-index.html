@@ -15,10 +15,10 @@
         {{partial "list-filter.html" .}}
         <div id="listToFilter">
 
-            {{/*  ITEMS WITHOUT DATE  */}}
+            {{/*  ITEMS WITHOUT DATE
             {{range (where .Site.RegularPages "Section" (lower .Params.title)).ByDate.Reverse}}
                 {{if not .Params.date}}<li><a href="{{.RelPermalink}}">{{.Params.title}}</a></li>{{end}}
-            {{end}}
+            {{end}}  */}}
 
             {{/*  ITEMS WITH DATE  */}}
             {{$date := ""}}

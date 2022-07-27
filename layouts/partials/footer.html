@@ -11,7 +11,7 @@
     function hrefToClipBoard(text)
     {
         var inputc = document.body.appendChild(document.createElement("input"));
-        let link = window.location.href().split("#")[0]
+        let link = window.location.href.split("#")[0]
         inputc.value = link
         inputc.focus();
         inputc.select();
