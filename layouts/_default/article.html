@@ -5,7 +5,8 @@
 {{end}}
 
 {{define "header"}}
-    {{partial "navbar.html" .}}
+{{partial "navbar.html" .}}
+
 {{end}}
 
 {{define "main"}}
@@ -16,16 +17,17 @@
 {{if not (and (not .Params.date) .Params.disable_toc)}}
     <div class="meta-container">
         <!-- Series, date metadata -->
-        <div class="metadata" {{if not .Params.toc}} style="margin: 0.4rem auto; float: none; margin-bottom: 30px;"{{end}}>
+        <div class="metadata" {{if .Params.disable_toc}} style="margin: 0.4rem auto; float: none; margin-bottom: 30px;"{{end}}>
                 {{if .Params.date}}
-                    <div style="padding-top: 3px;"><span>Published:</span> {{ time.Format "Jan 2, 2006" .Params.date}}</div>
+                    <div><span>Published:</span> {{ time.Format "Jan 2, 2006" .Params.date}}</div>
+                    <div><span>Tags:</span>{{range .Params.tags}} <a href="/tags/{{lower .}}">{{.}}</a>{{end}}</div>
                 {{end}}
         </div>
             <!-- Table of Contents -->
             {{if not .Params.disable_toc}}
                 {{partial "partials/toc.html" .}}
             {{end}}
-    </div>
+        </div>
     {{end}}
 <article>
     {{.Content}}

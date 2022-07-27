@@ -212,7 +212,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     flex-direction: row-reverse;
 }
 
-@media only screen and (max-width: 1050px){
+@media only screen and (max-width: 800px){
     .meta-container {
         justify-content: center;
     }
@@ -348,4 +348,9 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     overflow: hidden;
     text-overflow: ellipsis;
     font-size: 0.9em;
+}
+
+/* MISC */
+.tag-link, .tag-link:visited, .tag-link:hover {
+    color: var(--secondary-link-color);
 }

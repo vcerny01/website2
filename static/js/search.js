@@ -11,7 +11,6 @@ fetchJSON('/index.json').then(resp => {
 	document.addEventListener("keydown", (event) => {
 	if (event.ctrlKey && event.key === "o"){
 		event.preventDefault();
-		console.log("Initializing search");
 		loadSearch();
 	}
 	if (event.key === "Escape"){
@@ -34,12 +33,13 @@ function loadSearch()
 		searchBox.appendChild(resultsField);
 		inputField.focus();
 		document.addEventListener("click", (event) => {
+			let path = event.composedPath();
 			let i = 0;
 			let temp = false;
-			for(; i<event.path.length; i++)
+			for(; i < path.length; i++)
 			{
-				let id = event.path[i].id
-				if(id === "searchBox" || id === "searchbtn"){
+				let id = path[i].id
+				if(id === "searchBox" || id === "search-button"){
 					temp = true;
 					break;
 				}

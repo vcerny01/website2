@@ -13,14 +13,14 @@
 	<title>{{if .Params.title}}{{.Params.title}}{{else}}{{.File.BaseFileName}}{{end}}</title>
 </head>
 <body>
-	<div id="main-container">
+	<main id="main-container">
 		{{block "header" .}}
 		{{end}}
 		<div id="main-content">
 			{{block "main" .}}
 			{{end}}
 		</div>
-	</div>
+	</main>
 	<div>
 		{{block "footer" .}}
 		{{end}}

@@ -1,3 +1,4 @@
+{{partial "nav-utils.html"}}
 <div id="navbar">
     <div class="nav-container">
         <div id="navbar-name"><a style="color: inherit;" href="/">Vít Černý</a></div>
@@ -8,10 +9,9 @@
         <a href="/music">Music</a>
     
         <div class="nav-utils" style="margin-top: 5px;">
-                <button id="search-button" class="fa-solid fa-magnifying-glass fa-1x"></button>
+                <button id="search-button" class="fa-solid fa-magnifying-glass fa-1x" onclick="loadSearch()"></button>
                 <button id="theme-toggle" class="fa-solid fa-sun fa-1x" onclick="changeTheme()"></button>
             </div>
         </div>
     </div>
 </div>
-{{partial "nav-utils.html"}}

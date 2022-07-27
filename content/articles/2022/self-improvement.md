@@ -3,6 +3,8 @@ title: I’m Gonna Start Doing All the Self-Improvement Memes
 layout: article
 cover: /images/gallery/2018/3/2.webp
 date: "2022-03-19"
+tags:
+- Lifestyle
 ---
 
 >“Victory awaits him who has everything in order, luck some people call it. Defeat is certain for him who

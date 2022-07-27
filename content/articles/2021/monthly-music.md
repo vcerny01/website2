@@ -3,7 +3,10 @@ layout: article
 title: "Monthly Music: Introduction"
 cover: "https://i.ytimg.com/vi/tKia9mLiQqA/maxresdefault.jpg"
 date: 2021-10-03
+tags:
+- Monthly Music
 toc: true
+
 ---
 
 > "As a restful diversion from this work, Drury proposed giving him a record-player and some records of his choice. Wittgenstein declined. It would never do, he said; it would be like giving him a box of chocolates: ‘I wouldn’t know when to stop eating.’ On the other hand, Drury himself, he said, ought to listen to music when he was tired after his work. And so the next morning he had a radio set delivered to Drury’s rooms. Shortly after this Drury remarked on the great improvement of recording techniques evident in the records he heard on the radio. This elicited from Wittgenstein a typically Spenglerian reflection: It is so characteristic that, just when the mechanics of reproduction are so vastly improved, there are fewer and fewer people who know how the music should be played." (from _Ludwig Wittgenstein_ by Ray Monk, 1990)

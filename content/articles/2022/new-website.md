@@ -1,9 +1,11 @@
 ---
 title: Recent Changes
-toc: true
 layout: article
 cover: /images/gallery/2019/2/3.webp
 date: "2022-02-19"
+tags:
+- Maintenance
+- Software
 ---
 
 Well, I've almost finished my new website. So here's a short reflection and summary.

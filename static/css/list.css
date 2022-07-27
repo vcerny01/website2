@@ -98,30 +98,6 @@ ul {
     text-decoration: none;
 }
 
-.source-item {
-    margin: 0.5rem;
-    width: calc(11rem + 10px);
-    list-style: none;
-    padding: 10px;
-    text-align: center;
-    border: 1px var(--terciary-bg-color) solid;
-    display: block;
-    max-height: 18rem;
-}
-
-.source-item a:hover {
-    text-decoration: none;
-}
-
-@media only screen and (max-width: 800px){
-    .source-item {
-        width: 30vw;
-    }
-    .img-text {
-        font-size: small;
-    }
-}
-
 .img-container {
     max-width: auto;
     height: 8rem;
@@ -149,30 +125,3 @@ ul {
     margin: 0;
     object-fit: cover;
 }
-
-.source-item img {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-    padding: 0;
-    margin: 0;
-}
-
-.source-item:hover {
-    padding: 8px;
-    background-color: var(--terciary-bg-color);
-}
-
-.no-image-link {
-    font-family: 'IBM Plex Serif', serif;
-    background-color: #141417;
-    font-weight: 600;
-    display: block;
-    padding: 15px;
-    color: var(--text-color);
-    font-size: 1.3em;
-}
-.no-image-link:hover {
-    text-decoration: none;
-}
-

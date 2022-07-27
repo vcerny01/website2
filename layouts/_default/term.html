@@ -1,0 +1,58 @@
+{{define "head"}}
+<link rel="stylesheet" type="text/css" href="/css/list.css">
+{{end}}
+{{define "header"}}
+    <style>
+        .filter-field {
+            display: block;
+        }
+        #listToFilter {
+            margin: 0 auto;
+            margin-top: 4rem;
+
+            display: block;
+        }
+    </style>
+    {{partial "navbar" .}}
+{{end}}
+{{define "main"}}
+<h1><a class="tag-link" href="/{{.Data.Plural | urlize}}">{{
+    .Data.Singular }}:</a>
+{{.Params.title }}
+</h1>
+<section>
+    {{.Content}}
+    All posts tagged as <span style="color:var(--secondary-text-color);">{{.Params.title}}</span>:
+</section>
+<ul>
+    {{partial "list-filter.html" .}}
+    <div id="listToFilter">
+        <div class="items">
+            {{ range .Data.Pages }}
+            <a href="{{.RelPermalink}}" title="{{.Params.title}}">
+                <div class="item">
+                    {{$temp := ""}}
+                        {{if .Params.data}}
+                            {{$temp = (printf "%s%s%s" "/images/gallery/" .Params.data "/1.webp")}}
+                        {{else}}
+                            {{$temp = .Params.cover}}
+                        {{end}}
+                        <img src="{{$temp}}">
+                        <div class="item-desc">
+                            <div class="item-name">
+                                {{.Params.title}}
+                            </div>
+                            <div class="item-date">
+                                {{time.Format "Jan 2, 2006" .Params.date}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            {{end}}
+        </div>
+    </div>
+</ul>
+{{end}}
+{{define "footer" }}
+{{end}}

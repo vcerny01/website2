@@ -1,0 +1,33 @@
+{{define "head"}}
+{{end}}
+{{define "header"}}
+    {{partial "navbar" .}}
+{{end}}
+{{define "main"}}
+<style>
+    ul {
+        list
+        margin: 0 auto;
+        margin-left: 2rem; 
+    }
+    li {
+        font-size: 1em;
+        padding-bottom: 10px;
+    }
+</style>
+<h1>{{.Params.title}}</h1>
+<article>
+    <section>
+        {{.Content}}
+    </section>
+    <ul>
+        {{ range .Data.Terms.ByCount }}
+            <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> ({{ .Count }})
+            </li>
+        </a>
+        {{ end }}
+</ul>
+</article>
+{{end}}
+{{define "footer" }}
+{{end}}

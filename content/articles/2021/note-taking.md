@@ -4,6 +4,8 @@ title: Notes on Note-Taking
 cover: "https://i.ytimg.com/vi/Fiv-XEivC_Q/maxresdefault.jpg"
 date: 2021-06-03
 toc: true
+tags:
+- Learning
 ---
 
 > “Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.” --- Steve Jobs

@@ -49,6 +49,12 @@
                         </div>
                         <div class="item-date">
                             {{time.Format "Jan 2, 2006" .Params.date}}
+                            {{if .Params.tags}}
+                                &emsp;
+                                {{range .Params.tags}}
+                                    {{.}}; 
+                                {{end}}
+                            {{end}}
                         </div>
                     </div>
                 </div></a>
