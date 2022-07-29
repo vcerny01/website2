@@ -1,10 +1,13 @@
 var docEl = document.documentElement;
 var themeButton = document.getElementById("theme-toggle");
+var temp = themeButton.className; 
+
 if (localStorage.getItem("isDarkMode") == null)
 {
     if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
         docEl.className = "dark"; //change after testing
         localStorage.setItem("isDarkMode", "1");
+        themeButton.className = temp.replace("fa-sun", "fa-moon");
     }
     else {
         localStorage.setItem("isDarkMode", "0");
@@ -19,7 +22,7 @@ else {
 }
 function changeTheme() {
     var theme = docEl.classList[0];
-    var temp = themeButton.className; 
+    temp = themeButton.className; 
     docEl.classList = [];
     if (theme === "dark"){
         docEl.classList.add("light");
