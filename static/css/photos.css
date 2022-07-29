@@ -5,12 +5,15 @@
 	margin: 0;
 	border: none;
 }
+.glightbox {
+	outline: none;
+}
 article {
 	max-width: 1000px;
 	flex-direction: row;
 	display: flex;
 	justify-content: center;
-	gap: 4px;
+	gap: 7px;
 	flex-wrap: wrap;
 }
 header {

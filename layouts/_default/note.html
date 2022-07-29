@@ -1,0 +1,78 @@
+{{define "head"}}
+    <link rel='stylesheet' type='text/css' href="/css/note.css">
+    {{if .Params.math}}
+        {{partial "math.html" .}}
+    {{end}}
+{{end}}
+
+{{define "header"}}
+    {{partial "navbar.html" .}}
+{{end}}
+
+{{define "main"}}
+    {{$date := .Params.date.Format "Jan 2, 2006"}}
+
+    <h1>{{if .Params.title}}{{.Params.title}}{{else}}{{ with .File }}{{ .BaseFileName }}{{ end }}{{end}}</h1>
+
+    {{$disable_toc := .Params.disable_toc}}
+    {{if .Params.source}}
+        {{$disable_toc = true}}
+    {{end}}
+    <div class="meta-container">
+        <!-- Series, date metadata -->
+        <div class="metadata" {{if $disable_toc}} style="margin: 0 auto; float: none; margin-bottom: 20px; padding: 10px;"{{end}}>
+            <div style="padding-top: 3px;"><span>Last updated:</span> {{$date}}</div>
+            {{partial "partials/note-backlinks.html" .}}
+        </div>
+            <!-- Table of Contents -->
+            {{if not $disable_toc}}
+                {{partial "partials/toc.html" .}}
+            {{end}}
+    </div>
+    <article>
+        {{$relDir := replace .RelPermalink (printf "%s/" (.File.BaseFileName | urlize)) ""}}
+        {{$content := .Content}}
+        
+        {{/* MAKE HIGHLIGHTS */}}
+        {{$highlights := findRE "==(.*?)==" .Content}}
+        {{range $highlights}}
+            {{$text := (replace . "==" "")}}
+            {{$content = (replace $content . (printf "%s%s%s" "<mark>" $text "</mark>"))}}
+        {{end}}
+
+        {{/* MAKE IMAGE WIKILINKS */}}
+        {{$images := findRE "\\!\\[\\[(.*?)\\]\\]" .Content}}
+        {{range $images}}
+            {{$imageFileName := (replace (replace (replace . "[[" "") "]]" "") "!" "")}}
+            {{$content = replace $content . (printf "%s%s%s" "<img src=\"/notes/assets/" $imageFileName "\">")}}
+        {{end}}
+
+        {{/* MAKE WIKILINKS */}}
+        {{$wikilinks := findRE "\\[\\[(.*?)\\]\\]" .Content}}
+        {{range $wikilinks}}
+            {{if gt (len (split . "|")) 1}}
+                {{$alias := split (replace (replace . "[[" "") "]]" "") "|"}}
+                {{$content = replace $content . (printf "%s%s%s%s%s%s" "<a href=\"" "/notes/" ((index $alias 0) | urlize) "\">" (index $alias 1 ) "</a>")}}
+            {{else}}
+                {{$linkTitle := (replace (replace . "[[" "") "]]" "")}}
+                {{$content = replace $content . (printf "%s%s%s%s%s%s" "<a href=\"" "/notes/" ($linkTitle | urlize) "\">" $linkTitle "</a>")}}
+            {{end}}
+        {{end}}
+
+        {{/* REMOVE SOME TAGS */}}
+        {{range (split "#Book,#Research,#Article" ",")}}
+                {{$content = replace $content . ""}}
+        {{end}}
+        {{$content | safeHTML}}
+    </article>
+    <script defer>
+        var blocks = document.querySelectorAll("img");
+        for(let i = 0; i < blocks.length; i++){
+            blocks[i].parentElement.style.listStyleType = "none";
+        }
+    </script>
+{{end}}
+
+{{define "footer"}}
+    {{partial "footer.html" .}}
+{{end}}

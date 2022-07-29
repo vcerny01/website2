@@ -7,10 +7,9 @@
     <link rel="stylesheet" type="text/css" href="/css/base.css">
 	<script src="https://kit.fontawesome.com/cfed23d8b0.js" crossorigin="anonymous"></script>
 	{{block "head" .}}
-    
 	{{end}}
 	{{partial "favicon.html" .}}
-	<title>{{if .Params.title}}{{.Params.title}}{{else}}{{.File.BaseFileName}}{{end}}</title>
+	<title>{{if .Params.title}}{{.Params.title}}{{else}}{{ with .File }}{{ .BaseFileName }}{{ end }}{{end}}</title>
 </head>
 <body>
 	<main id="main-container">

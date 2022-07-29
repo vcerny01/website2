@@ -1,0 +1,51 @@
+{{define "head"}}
+{{end}}
+{{define "header"}}
+{{partial "navbar.html" .}}
+<style>
+    ul {
+        display: table;
+        margin: 0 auto;
+    }
+    ul li {
+        padding-bottom: 4px;
+    }
+    section a, section a:visited{
+        color: var(--secondary-link-color);
+    }
+    section {
+        max-width: 800px;
+        margin: 0 auto;
+        margin-top: 1.7rem;
+        margin-bottom: 1rem;
+    }
+    section span {
+        font-size: 1.05em;
+    }
+</style>
+{{end}}
+{{define "main"}}
+{{/*  <h1>{{.Params.title}}</h1>  */}}
+<section>
+    {{if .Content}}
+        {{.Content}}
+    {{else}}
+        {{$splitted := (split .File.Dir "/")}}
+        {{$final := slice}}
+        {{$before := ""}}
+        {{range (first (sub (len $splitted) 1) $splitted )}}
+            {{$before = (printf "%s/%s" $before (lower .))}}
+            {{$final = (append (slice (printf "<a href=\"%s\">%s</a>" $before .)) $final)}}
+        {{end}}
+        <span>{{delimit $final " > "}}</span>:
+    {{end}}
+</section>
+<ul>
+    {{range .Pages }}
+        <li><a href="{{.RelPermalink}}">{{if .Params.title}} {{.Params.title}}{{else}}{{ with .File }}{{ .BaseFileName }}{{ end }}{{end}}</a></li>
+    {{end}}
+</ul>
+{{end}}
+{{/*  {{define "footer"}}
+    {{partial "footer.html" .}}
+{{end}}  */}}

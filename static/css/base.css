@@ -2,23 +2,25 @@
 
 /* BASE VARIABLES*/
 :root, :root.light{
-    --bg-color: #FAF3F3;
-    --secondary-bg-color: #E1E5EA;
-    --terciary-bg-color: #A7BBC7;
-    --text-color: #5d6577;
-    --secondary-text-color: #9098ab;
-    --link-color: #00a3ee;
-    --secondary-link-color: #6a95bb;
+    --bg-color: #FEF5ED;
+    --bg-color-tinted: #f9fafb;
+    --secondary-bg-color: #fce0c8;
+    --terciary-bg-color: #99A799;
+    --text-color: #566571;
+    --secondary-text-color: #9baebc;
+    --link-color: #00892e;
+    --secondary-link-color: #659b91;
     --font: 'PT Serif';
 }
 :root.dark {
     --bg-color: #2C3639;
+    --bg-color-tinted: #354044;
     --text-color: #DCD7C9;
     --secondary-text-color: #a5a093;
     --secondary-bg-color: #3F4E4F;
     --terciary-bg-color: #A27B5C;
     --link-color: #cf7d2e;
-    --secondary-link-color: #baa89b;
+    --secondary-link-color: #E2B181;
 }
 
 body {
@@ -98,7 +100,7 @@ hr {
 h1 {
     text-align: center;
     font-weight: 700;
-    font-size: 2.2em;
+    font-size: 2em;
     padding: 0.5rem;
 }
 h2 {
@@ -143,7 +145,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     border-bottom: var(--terciary-bg-color) solid 2px;
 }
 
-@media only screen and (max-width: 700px){
+@media only screen and (max-width: 800px){
     #navbar{
         font-size: 0.7em;
     }
@@ -165,6 +167,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 
 .footer {
     display: flex;
+    margin-top: 1rem;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -177,23 +180,26 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 .footer button {
     outline: none;
     font-family: inherit;
-    color: inherit;
+    color: var(--secondary-text-color);
     background-color: var(--secondary-bg-color);
     padding: 5px;
+    font-size: 0.8em;
     border: 4px var(--terciary-bg-color) solid;
 }
 .footer button:hover {
     cursor: pointer;
+    color: var(--text-color);
     background-color: var(--terciary-bg-color);
 }
 .footer-socials {
     float: right;
 }
 .footer-socials *{
-    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .footer a {
-    color: var(--secondary-link-color);
+    color: var(--secondary-text-color);
 }
 .footer-socials a:hover {
     text-decoration: none;
@@ -284,7 +290,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     border-radius: 6px;
     z-index: 100;
 }
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 800px){
     #searchBox {
         width: 95%;
         height: 80%;        
@@ -300,7 +306,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     padding: 10px;
     font-size: 1.6em;
     font-family: sans-serif;
-    color: var(--text-color);
+    color: white;
 }
 #resultsField {
     overscroll-behavior: contain;

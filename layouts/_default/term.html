@@ -24,35 +24,37 @@
     {{.Content}}
     All posts tagged as <span style="color:var(--secondary-text-color);">{{.Params.title}}</span>:
 </section>
-<ul>
-    {{partial "list-filter.html" .}}
-    <div id="listToFilter">
-        <div class="items">
-            {{ range .Data.Pages }}
-            <a href="{{.RelPermalink}}" title="{{.Params.title}}">
-                <div class="item">
-                    {{$temp := ""}}
-                        {{if .Params.data}}
-                            {{$temp = (printf "%s%s%s" "/images/gallery/" .Params.data "/1.webp")}}
-                        {{else}}
-                            {{$temp = .Params.cover}}
-                        {{end}}
-                        <img src="{{$temp}}">
-                        <div class="item-desc">
-                            <div class="item-name">
-                                {{.Params.title}}
-                            </div>
-                            <div class="item-date">
-                                {{time.Format "Jan 2, 2006" .Params.date}}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </a>
+{{partial "list-filter.html" .}}
+<div style="height: 100%;">
+<div id="listToFilter" style="margin-top: 2rem;">
+    <div class="items">
+        {{ range .Data.Pages }}
+        <a href="{{.RelPermalink}}" title="{{.Params.title}}">
+        <div class="item">
+            {{$temp := ""}}
+            {{if .Params.data}}
+                {{$temp = (printf "%s%s%s" "/images/gallery/" .Params.data "/1.webp")}}
+            {{else}}
+                {{$temp = .Params.cover}}
             {{end}}
+            <div class="item-img-container">
+                <img src="{{$temp}}">
+            </div>
+            <div class="item-desc">
+                <div class="item-name">
+                    {{.Params.title}}
+                </div>
+                <div class="item-date">
+                    {{time.Format "Jan 2, 2006" .Params.date}}
+                </div>
+            </div>
         </div>
+        </a>
+        {{end}}
     </div>
-</ul>
+</div>
+</div>
+
 {{end}}
 {{define "footer" }}
 {{end}}
