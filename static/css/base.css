@@ -361,3 +361,12 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 .tag-link, .tag-link:visited, .tag-link:hover {
     color: var(--secondary-link-color);
 }
+
+ul {
+    list-style-type: disc;
+}
+
+li {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
