@@ -37,9 +37,9 @@ $$\large{ [[Li, K, Ba, Ca, Na], Mg, Al, Mn, Zn, Cr, Fe], Cd, Co, Ni, Sn, Pb, \te
 - Ponořením kovu do roztoku jeho soli získáme poločlánek
 	- Vodivým propojením dvou poločlánků získáme galvanický článek
 	- V galvanickém článku v důsledku průběhu chemické reakce vzniká elektrický proud
-	- ![[Pasted image 20220424160048.webp]]
+{{< img src="/notes/assets/Pasted image 20220424160048.webp" >}}
 - Galvanický článek včetně rovnic
-	- ![[Pasted image 20220424160106.webp]]
+{{< img src="/notes/assets/Pasted image 20220424160106.webp" >}}
 	- **Anoda**
 		- Elektroda, kde dochází k *oxidaci*
 		- Rozpouští se
@@ -50,7 +50,7 @@ $$\large{ [[Li, K, Ba, Ca, Na], Mg, Al, Mn, Zn, Cr, Fe], Cd, Co, Ni, Sn, Pb, \te
 			- Na jejím povrchu se vylučují další atomy kovu, které vznikly redukcí kationtů z roztoku
 - Počet přijatých a odevzdaných elektronů musí být ve článku vždy stejný
 	- => Někdy je třeba celé schéma dorovnat
-		- ![[Pasted image 20220424160752.webp]]
+{{< img src="/notes/assets/Pasted image 20220424160752.webp" >}}
 
 ### Napětí článků
 - Čím dál jsou prvky v řadě kovů od sebe tím víc je napětí větší
@@ -64,4 +64,4 @@ $$\large{ [[Li, K, Ba, Ca, Na], Mg, Al, Mn, Zn, Cr, Fe], Cd, Co, Ni, Sn, Pb, \te
 
 ## Elektrolýza
 - = Děj, při kterém vlivem průchodu elektrického proudu dochází k chemické reakci (konkrétně k rozkladu soli)
-- ![[Pasted image 20220424162221.webp]]
+{{< img src="/notes/assets/Pasted image 20220424162221.webp" >}}

@@ -94,7 +94,7 @@ $$tan(\alpha) = \frac{\text{délka protilehlé odvěsny}}{\text{délka přilehl�
 - $sin^{-1}$, $cos^{-1}$, $tan^{-1}$, $cot^{-1}$
 
 ## Euklidovy věty
-- ![](https://www.matweb.cz/pictures/euklid1.png)
+{{< img src="https://www.matweb.cz/pictures/euklid1.png" >}}
 - **Euklidova věta o výšce**
 	- $v_c^2 = c_a \cdot c_b$
 		- => $v_c = \sqrt{c_b \cdot c_a}$

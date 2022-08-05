@@ -9,11 +9,11 @@ math: true
 	- Vrcholy mnohoúhelníku jsou vrcholy lomené čáry
 		- Z každého vrcholu vychází dvě úsečky, které ho spojují se dvěma sousedními vrcholy
 	- Strany mnohoúhelníku jsou strany lomené čáry
-	- ![[Pasted image 20220524120742.webp]]
+{{< img src="/notes/assets/Pasted image 20220524120742.webp" >}}
 
 ### Konvexní a nekonvexní mnohoúhelník
 - Konvexní je trojúhelní, pokud se spojnice jakýhkoliv jeho dvou bodů nachází ve mnohúhelníky, jinak je nekonvexní
-	- ![[Pasted image 20220524121151.webp]]
+{{< img src="/notes/assets/Pasted image 20220524121151.webp" >}}
 
 ### Úhlopříčky a jejich počet
 - Úhlopříčka konvexního mnohoúhelníku je úsečka spojující dva nesousední vrcholy mnohoúhelníku.
@@ -26,7 +26,7 @@ $$\frac{n \cdot (n-3)}{2}$$
 $$(n-2) \cdot 180°$$
 
 ## Pravidelné mnohoúhelníky
-- ![[Pasted image 20220524130304.webp]]
+{< img src="/notes/assets/Pasted image 20220524130304.webp" >}
 ### Vlastnosti
 - = Konvexní n-úhelník (kde n je počet vrcholů), který má všechny strany stejně dlouhé a všechny vnitřní úhly shodné
 - Délka úhlopříčky se rovná délce stran

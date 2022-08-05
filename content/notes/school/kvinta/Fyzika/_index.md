@@ -4,5 +4,3 @@ title: Fyzika
 layout: section
 series: Kvinta
 ---
-
-Poznámky z fyziky za [kvintu](/notes/kvinta).

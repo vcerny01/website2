@@ -97,8 +97,8 @@ date: 2022-04-04
 			- Dochází ke kmitání hlasivek
 		- Neznělé
 			- Nedochází ke kmitání hlasivek
-		- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FmvU6bn3Amx.png?alt=media&token=ef16e69a-efb3-4964-a1a2-d1c9c53ca52a)
-	- ![](http://www.dousek.wz.cz/schoolRecord/schoolYears/fifth/subjects/czechGrammar/pictures/vokalicky_trojuhelnik.jpg)
+{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FmvU6bn3Amx.png?alt=media&token=ef16e69a-efb3-4964-a1a2-d1c9c53ca52a" >}}
+{{< img src="http://www.dousek.wz.cz/schoolRecord/schoolYears/fifth/subjects/czechGrammar/pictures/vokalicky_trojuhelnik.jpg" >}}
 - Dvojhlásky
 	-  Splývavá výslovnost
 		-  `dětství [-c-]`, `pražští [-š-]`, `panna [-n-]`

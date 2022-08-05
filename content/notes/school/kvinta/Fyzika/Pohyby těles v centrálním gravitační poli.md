@@ -6,12 +6,12 @@ math: true
 
 - Ve všech místech gravitačního pole Země směřuje gravitační síla do středu země
 	- => Střed země je *gravitační střed centrálního pole*
-	- ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBBDEspTjLNC-ll6WHYzl9xc0Iljoz0SkwxSYcCc3eQP4hItoz3b54HUP4I_0wZ4KS3sw&usqp=CAU)
+{{< img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBBDEspTjLNC-ll6WHYzl9xc0Iljoz0SkwxSYcCc3eQP4hItoz3b54HUP4I_0wZ4KS3sw&usqp=CAU" >}}
 
 ## Kosmické rychlosti
 ### První kosmická rychlost (kruhová)
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FhWJ1noRj_w.png?alt=media&token=2b6713cc-5a3d-4048-8b93-2dc00cea18a7)
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2F1mNwZU1L_K.png?alt=media&token=5d9a1eaa-0a11-4ecf-8d0b-fe824691b4f7)
+{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FhWJ1noRj_w.png?alt=media&token=2b6713cc-5a3d-4048-8b93-2dc00cea18a7" >}}
+{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2F1mNwZU1L_K.png?alt=media&token=5d9a1eaa-0a11-4ecf-8d0b-fe824691b4f7" >}}
 - Těleso se kolem Země pohybuje po kružnici
 $$F_g=F_d \Rightarrow \frac{\varkappa m M_z}{(R_z+h)^2}=\frac{mv^2_k}{R_z+h}$$
 - $m$ – hmotnost tělesa
@@ -26,7 +26,7 @@ $$v_k=\sqrt{\frac{\varkappa M_z}{R_z+h}}$$
 - 3 – těleso opíše *kružnici* se středem v gravitačním středu Země
 - $v_k = 7,9 km\cdot s^{-1}$  – 1. kosmická rychlost
 ### Druhá kosmická (parabolická)
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FCnB47UgEvO.png?alt=media&token=c7ec6102-2c87-419d-8ea5-411fbde0d01e)
+{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FCnB47UgEvO.png?alt=media&token=c7ec6102-2c87-419d-8ea5-411fbde0d01e" >}}
 - 4 – těleso se kolem Země pohybuje po elipse
 - Bod P – *perigeum*
 	- Těleso má od středu Země nejmenší vzdálenost
@@ -45,7 +45,7 @@ $$v_p=\sqrt{\frac{2 \varkappa M_z}{R_z + h}} = v_k \sqrt{2}$$
 ### 1. Keplerův zákon
 - Popisuje tvar trajektorie planet
 - >Planety se pohybují kolem Slunce po elipsách málo odlišných od kružnic, v jejichž společném ohnisku je Slunce.
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FXtzu9UkSIT.png?alt=media&token=564cfe59-bf06-4bf3-94a7-d844afa815b1)
+{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FXtzu9UkSIT.png?alt=media&token=564cfe59-bf06-4bf3-94a7-d844afa815b1" >}}
 - *Číselná výstřednost*
 	- Veličina vyjadřující do jaké míry se liší elipsa od kružnice
 	- $e = |OF| / a$
@@ -54,7 +54,7 @@ $$v_p=\sqrt{\frac{2 \varkappa M_z}{R_z + h}} = v_k \sqrt{2}$$
 
 ### 2. Keplerův zákon
 - > Obsahy ploch opsaných průvodičem planety za jednotku času jsou konstantní.
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FSdrQ6sdjg4.png?alt=media&token=3296dbe1-4fe0-42ed-bab2-28751f217ca1)
+{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FSdrQ6sdjg4.png?alt=media&token=3296dbe1-4fe0-42ed-bab2-28751f217ca1" >}}
 	- $v_A < v < v_P$
 - *Průvodič* – úsečka spojující střed planety a střed Slunce
 - *Perihelium P* (přísluní)

@@ -1,0 +1,155 @@
+---
+series: Ancient Greece
+date: 2022-04-02
+toc: true
+---
+ ## Geography
+{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FzAUybho6QN.png?alt=media&token=90bdfa21-90f5-49e1-804a-a9584eb0f1ed" >}}
+- Good location
+	- Lots of land and natural resources
+	- Long coast line
+- Athens means Athena's people
+	- She the supervising entity of the city from the beginnings in the mythology 
+	- Athenains pride themselves on being _autochtonous_ (having been born of earth, always having been there)
+		- [The myth of the first Athenian](https://www.greekmythology.com/Myths/Mortals/Erichthonius/erichthonius.html#:~:text=According%20to%20the%20myth%2C%20Athena,semen%20fell%20onto%20Athena's%20thigh.)
+
+## History
+### [[Archaic Greece|Archaic Period]]
+- #### Origins
+	- 4 tribes
+	- Mythical king **Theseus**
+ - #### Government
+	- **_Eupatridae_**
+		-  = "Those who had good fathers"
+		- Hereditary elite
+	- **_Areopagus_**
+		- A council that met on the hill of _Ares_, called the 
+		- Members of this council (_Aeropagites_) were adult males selected by Eupatridae
+			- Membership was restricted to those who previously were archons
+	- **_Archons_**
+		- = "The leading men"
+		- Chief magistrates selected by the council
+		- There were 3 of them initially, 9 later (the classic 3 + 6 _themostai_ - judicial officers)
+			- 1. *archon basileus*
+				- Retained some powers of the primitive early kingship (he might have been chief of justice for example)
+				- Oversaw religous rites
+			- 2. the *Polemarch*
+				- Commander in chief
+			- 3. eponymous archon
+				- This magistrate gave his name to the civic year
+	- **Assembly** of citizens
+		- Probably divided by those four tribes somehow
+		- Not much is known about them
+
+- #### Unsuccessful coup of [Kylon](https://en.wikipedia.org/wiki/Cylon_of_Athens) (==636/632 BC==)
+	- Kylon tried to become a tyrant, but his plan fails due to little popular support
+	- Kylon managed to escape, but some his co-conspirators did not
+		- They take refuge in the temple of Athena where they were being starved into submission
+		- One of nine archons, Megacles promised them safe passage out of the temple, but when they emerged, he had them killed
+			- Because of this sacrilige Megacles and his family were sent to exile
+			- The great Eupatrid clan called *Alcmaeonids* (very important clan in greek history) to which Megacles belonged had been called cursed ever since
+	- First reliable event of Athenian history
+- #### **[[Draco]]** formulates first code of laws for Athenians (==~621BC==)
+	- It was claimed that Draco prescribed death as the punishment for any infraction.
+		- In reality the code was not as harsh
+- #### Athenians send out two colonies to the Hellespont (==620–610 BC==)
+	- > As we have seen over and over again, colonies serve as safety valves, as ways to relieve social and political tension
+- #### **[[Solon]]**'s reforms (==594 BC==)
+	- At the turn of the 6th century BC there was some kind of economic crisis
+		- A large part of impoverished citizen farmers have grown in Athens that couldn't pay their debts (big social tension) 
+- ==590 BC== - _anarkhia_
+	- A year without an archon
+	- That's where the word *anarchy* comes from
+- #### 3 political fractions
+	- A brief experiment with something like a board of governors replacing the archons, there were 3 regional and political fractions
+	- *The Men of the Plain*
+		- The population composed mostly of large landowners.
+		- Led by Lykourgos
+	- *The Men of the Coast*
+		- the population likely including fishermen and craftsmen.
+		- Led by Megakles
+	- *the Men of the Hill*
+		- The population containing the poorer residents of the Attic highlands, and possibly including residents of Attica cities as well.
+		- Led by Peisistratos
+- #### Tyranny of **[[Peisistratos]]** (==546–527 BC==)
+	- Regarded as the only half-bad tyrant by [[Aristotle]]
+
+- #### Peistratos' rule passed to his sons **Hippias** and **Hipparchus**
+	- Works well
+		- [[Aristotle]] describes the characters of the two brothers
+			- > Affairs were now under the authority of Hipparchos and Hippias, owing to their station and their ages, but the government was controlled by Hippias, who was the elder and was statesmanlike and wise by nature; whereas Hipparchos was fond of amusement and lovemaking and had literary tastes; it was he who brought to Athens the poets such as Anakreon and Simonides, and the others. (*Athenian Constitution* 18.1) 
+	- However in ==514 BC==, Hipparchus is stabbed to death by Harmodius and Aristogeiton
+		- The murder, actually the result of a love feud, was quickly deemed a political act of assassination and the perpetrators, Harmodios and Aristogeiton, were proclaimed heroes and tyrannicides
+		- The reign of the remaining tyrant, Hippias, became increasingly severe
+			- From Aristotle:
+				- > After this it began to come about that the tyranny was much harsher; for Hippias' numerous executions and sentences of exile in revenge for his brother led to his being suspicious of everybody and embittered.
+	- Hippias' was expelled in ==511 BC==
+		- The Spartan king, **[[Cleomenes]]**, came out and helped an Athenian politician named **Isagoras**:
+			-  Hippias had taken refuge on the Acropolis. But Kleomenes managed to capture some members of Hippias' family.
+			- So they arranged a negotiation and Hippias left Athens with his family
+				- And that was the end of tyranny in Athens
+- #### Athenian Revolution (==508–507 BC==)
+	- Isagoras and Cleomenes attempt to dissolve the council
+		- The council resists
+	- Kleomenes and Isagoras occupy the Acropolis with Spartan help
+		- The rest of Athenians unite
+		- They besiege the Spartan occupiers
+		- Kleomenes surrenders on the 3rd day of the siege and the Spartans withdraw
+	- The leader of the popular revolt, Cleisthenes (member of the Alcmaeonids clan), is called back to the city frome exile
+	- After Athenian revolution, **[[Cleisthenes]] makes democratic reforms**
+
+### [[Classical Greece|Classical Period]]
+
+- #### [[Persian Wars]] (==492–449 BC==)
+	- [[Themistocles]] persuaded the assembly to invest into building ships
+		- That's how Athens became a maritime power
+		- Triretmes (the ships) opened up lots of job opportunities for poor citizens
+- #### Delian League
+	- Founded by Athens in ==478 BC==
+	- Association of Greek city-states led by Athens
+	- Annual contributions
+	- Its main goal was defence against Persia
+	- Principle of equality among all member states
+	- The league's name derives from the island of Delos
+		- Congresses were held in the temple there
+		- The treasury stood there until, in a symbolic gesture, Pericles moved it back to Athens in 454 BC
+			- After this event, the league could be effectively described as Athenian Empire
+	- The league dissolved upon the end of the [[Peloponnesian War]]
+- #### The golden age of [[Pericles]]
+	- A reform of the Aeropagus is passed in ==462 BC==
+	- Periclean building program
+		- Athenians took money extracted from Delian League tributes to beautify the city
+		- Most ancient Athenian sights come from this program, e.g. the [Parthenon](https://en.wikipedia.org/wiki/Parthenon)
+- #### [[Peloponnesian War]]
+	-  **The long walls**
+		- Built to protect connection of the city of Athens with Piraeus (Athenian port)
+			- There was also other wall connecting Athens with Palerum
+				- These two walls effectively created a fortified triangle
+{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FSOlobuDDjK.png?alt=media&token=467b08d4-6a45-4903-9e95-d21dfa55975c" caption="The long walls" >}}
+- #### Thirty Tyrants ==(404–403 BC)==
+	- Oligarchy imposed by [[Sparta]] after [[Peloponnesian War]]
+	- Civil war starts, Thrasybylus (leader of Athenian democrats) overthrows the thirty
+		- It is said there were no revenge killings, instead there was a joyful procession back up to the Acropolis
+- [[Socrates]] is put to death for "impiety and corruption of the youth" (==399 BC==)
+- Long walls of Athens are rebuilt (==393 BC==)
+- #### [[Corinthian War]]
+	- By the peace of Antalcidas, Athens are forced to cede their gained territories in the Aegan sea
+- [[Plato]] founds his Academy in Athens (==385 BC==)
+-  Fought with Sparta against Thebes supremacy in [[Boeatian War]]
+- #### Social War
+	- ==357–355 BC==
+	- Some Ionian colonies (Chios, Rhodes, Cos and Byzantium) overthrew their democratic governments and revolted against Athens
+	- Athenians sent a fleet to put down the rebellion
+	- Battle of Chios
+		- 357 BC
+		- One Athenian commander was killed so the fleet withdrawn
+	- Battle of Embata
+		- 356 BC
+		- A big Athenian fleet was divided due to a storm
+		- Athenians were defeated and Athens were forced to recognize indepedence of these colonies
+	- This war effectively ended Athenian attempts to rebuild their empire
+- Lost independence in [[Macedonian Conquest of Greece]]
+	- While [[Alexander the Great]] was preoccupied in Persia, Greek states rebelled against Macedon
+		- Antipater gathered a big enough army and destroyed Greeks in the battle of Megalopolis
+	- After Alexander's death, the Lamian War broke out, Antipater managed to destroy what was remaining of Greek independence
+		- Demosthenes commits suicide

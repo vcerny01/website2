@@ -1,8 +1,21 @@
-<figure>
-    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}>
+{{/*  <figure>
+    <img src="{{- .Get "src" -}}"
+    alt="{{- .Get "caption" -}}>
     {{- with .Get "caption" -}}
         <figcaption>
             {{- . -}}
         </figcaption>
+    {{- end -}}
+</figure>  */}}
+
+<figure {{ with .Get "class" }}class="{{.}}"{{ end -}}>
+    <a href="{{ .Get "src" }}" target="_blank">
+	<img src="{{ .Get "src" }}"
+	     alt="{{.Get "caption"}}">
+	</a>
+	{{- with .Get "caption" -}}
+	<figcaption>
+	{{- . -}}
+	</figcaption>
 	{{- end -}}
 </figure>

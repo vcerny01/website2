@@ -65,12 +65,6 @@
         {{end}}
         {{$content | safeHTML}}
     </article>
-    <script defer>
-        var blocks = document.querySelectorAll("img");
-        for(let i = 0; i < blocks.length; i++){
-            blocks[i].parentElement.style.listStyleType = "none";
-        }
-    </script>
 {{end}}
 
 {{define "footer"}}

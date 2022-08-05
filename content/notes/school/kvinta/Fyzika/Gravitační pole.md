@@ -69,7 +69,7 @@ Vzniká složením dvou  pohybů:
 	 - Rychlost v maximální výšce je $0\ m\cdot{s^{-1}}$
 	 - Tělso dopadá na zem stejně velkou rychlostí, kterou bylo vrženo
 	- Rychlost v max. výšce je $v_h = 0\ m/s$ 
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FiBuRZ3DFLb.png?alt=media&token=5c1d6781-90d6-4c99-a60c-86fcff570e2a)
+{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FiBuRZ3DFLb.png?alt=media&token=5c1d6781-90d6-4c99-a60c-86fcff570e2a" >}}
 $${v=v_0-g\cdot{t}}$$
  - $v$ – okamžitá rychlost tělesa v čase $t$
  - $v_0$ – počáteční rychlost tělesa
@@ -82,7 +82,7 @@ $${v=v_0-g\cdot{t}}$$
  - $h$ – výška výstupu
 
 ### Vodorovný vrh
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FkjqBMoNwbr.png?alt=media&token=b2e7c930-8798-42e5-8dd2-f4f687270b39)
+{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FkjqBMoNwbr.png?alt=media&token=b2e7c930-8798-42e5-8dd2-f4f687270b39" >}}
 - Vzniká složením dvou pohybů 
     - Rovnoměrný přímočarý pohyb ve vodorovném směru počáteční rychlost $v_0$
     - Volný pád ve směru gravitačního zrychlení $g$
@@ -121,4 +121,4 @@ $$t_d=\sqrt{\cfrac{2\cdot{h}}{g}}$$
  $$d=\cfrac{2\cdot{v_0^2}\cdot\sin{\alpha}\cdot\cos{\alpha}}{g}=\cfrac{v_0^2\cdot\sin{2\alpha}}{g}$$
  - $d$ - vzdálenost pádu od místa vrhu
 
-![](https://sites.google.com/site/fyzika007/_/rsrc/1472857154434/gravitacni-pole/sikmy-vrh-vzhuaru/vrh_sikmy.JPG)
+{{< img src="https://sites.google.com/site/fyzika007/_/rsrc/1472857154434/gravitacni-pole/sikmy-vrh-vzhuaru/vrh_sikmy.JPG" >}}

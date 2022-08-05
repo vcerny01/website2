@@ -35,7 +35,7 @@ Largely self-taught, but with experience in business environment.
 - B2B applications
 - Personal websites
 - Linux administration and scripting
-- Eshop administration (including migrations and API integrations)
+- E-commerce administration (including migrations and API integrations)
 
 ## Language Skills
 
@@ -43,7 +43,7 @@ Partly from school, but still largely self-taught. I also have solid experience 
 
 - **Czech** (native)
 - **English** (fluent)
-    - C2 by CEFR (CAE certified.)
+    - C2 by CEFR (CAE certified)
 - **German** (beginner)
     - B1 by CEFR
 

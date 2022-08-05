@@ -5,7 +5,7 @@ series: Biologie
 ---
 
 - = soubor přeměněných listů sloužicích k pohlavnímu rozmnožování
-- ![](/images/misc/2022/g5-biol/kvet1.png)
+{{< img src="/images/misc/2022/g5-biol/kvet1.png" >}}
 - ## Složení
 	- **květní stopka** - upevňuje *květ* ke *stonku*
 	- **květní lůžko** - rozšířená horní část *květní stopky*
@@ -33,7 +33,7 @@ series: Biologie
 		- 2 prašné váčky
 			- 2 prašná pouzdra (4 celkem(2\*2))
 	- soubor tyčinek = *andreceum*
-	- ![](/images/misc/2022/g5-biol/kvet2.png)
+{{< img src="/images/misc/2022/g5-biol/kvet2.png" >}}
 - ### Pestík
 	- samičí pohlavní orgán
 	- soubor pestíků = *gyneceum*
@@ -50,7 +50,7 @@ series: Biologie
 		- **Blizna**
 			- vrchní část
 			- zachycují se zde a klíčí *pylová zrna*
-	- ![](/images/misc/2022/g5-biol/kvet3.png)
+{{< img src="/images/misc/2022/g5-biol/kvet3.png" >}}
 - ## Rozdělení květů
 	- **Podle souměrnosti**
 		- a) *Pravidelné*
@@ -59,7 +59,7 @@ series: Biologie
 			- 1 rovina souměrnosti
 		- c) *Asymetrické*
 			- nemají žádnou rovinu souměrnosti
-		- ![](/images/misc/2022/g5-biol/kvet4.png)
+{{< img src="/images/misc/2022/g5-biol/kvet4.png" >}}
 - **Podle pohlavnosti**
 	- a) *Oboupohlavné*
 		- obsahuje samčí i samičí pohlavní orgány
@@ -73,7 +73,7 @@ series: Biologie
 			2) Dvoudomé
 				- jedinec se samičími nebo jen se samčími květy
 				- např. *vrba, rakytník*
-	- ![](/images/misc/2022/g5-biol/kvet5.png)
+{{< img src="/images/misc/2022/g5-biol/kvet5.png" >}}
 - ## Květenství
 	- soubor květů uspořádaných na **společném stonku**
 	- ### Složení

@@ -77,7 +77,7 @@ math: true
 		- Vzorek se převede do roztoku a nechá se reagovat přesně definovaným způsoběm s roztokem činidla až do tzv. ekvivalenčního bodu
 
 ### Gravimetrie - příklad
-- ![[Pasted image 20220502123115.webp]]
+{{< img src="/notes/assets/Pasted image 20220502123115.webp" >}}
 ### Titrace
 - Slouží k určení koncentrace v neznámém vzorku
 - Viz tento [[assets/chem-titrace.pdf|materiál]]

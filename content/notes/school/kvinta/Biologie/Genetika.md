@@ -25,7 +25,7 @@ Odkazy na zdroj (naše verze je ve Wordu osekaná verze toho pdf):
 - **Nukleotid**
 	- = Základní stavební kámen molekuly DNA
 - Tvořena **dvěma vlákny** spojenými v místech bází dle principu komplementarity
-![](https://www.sciencenewsforstudents.org/wp-content/uploads/2019/11/730_DNA_gene_explainer-640x450.png)
+{{< img src="https://www.sciencenewsforstudents.org/wp-content/uploads/2019/11/730_DNA_gene_explainer-640x450.png" >}}
 ### Replikace DNA
 - = kopírování DNA před buněčným dělením
 - Proces:
@@ -33,7 +33,7 @@ Odkazy na zdroj (naše verze je ve Wordu osekaná verze toho pdf):
 	- 2. Na obě obnažená vlákna nasedají volné nukleotidy podle principu komplementarity (A=T, C=G)
 	- 3. Nově připojené nukleotidy jsou spojovány enzymem DNA-polymerázou
 - (Replikace DNA v lidské buňce trvá přibližně 8 hodin)
-![](https://media.memorang.com/images/5341855d-53b1-4c42-9ed4-24909796885c.jpg)
+{{< img src="https://media.memorang.com/images/5341855d-53b1-4c42-9ed4-24909796885c.jpg" >}}
 
 ## RNA
 - = ribonukleová kyselina
@@ -73,7 +73,7 @@ Odkazy na zdroj (naše verze je ve Wordu osekaná verze toho pdf):
 	- Některé aminokyseliny jsou kódovány až šesti různými kodony
 	- Některé kodony určují hranice mezi jednotlivými molekulami bílkovin (*iniciáční* a *terminační*)
 - Tabulka genetického kódu, jakou aminokyselinu kóduje určitý kodon
-	![](https://vesmir.cz/images/gallery/archiv/2012/6/geneticky-kod-z-pohledu-matematiky/page/2012_364_04.gif)
+{{< img src="https://vesmir.cz/images/gallery/archiv/2012/6/geneticky-kod-z-pohledu-matematiky/page/2012_364_04.gif" >}}
 - Proces:
 	- 1. Ribozom nasedne na molekula mRNA, "přečte" první kodon
 		- => tRNA s kompletním antikodonem
@@ -83,7 +83,7 @@ Odkazy na zdroj (naše verze je ve Wordu osekaná verze toho pdf):
 	- 4. Proces se opakuje, dokud se na mRNA neobjeví jeden z terminačních kodonů
 		- => peptidický řetězec se ukoˇnčí a uvolní se molekula bílkoviny
 - (Translace probíhá průměrnou rychlostí 15 kodonů za sekundu, tzn. průměrná molekula bílkoviny (obsahující cca 300 aminokyselin) vznikne přibližně za 2tr0 sekund)
-![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Schematischer_Ablauf_der_RNA-Translation.png?20210114213455)
+{{< img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Schematischer_Ablauf_der_RNA-Translation.png?20210114213455" >}}
 
 ## Buněčná genetika
 (eukaryotická buňka)
@@ -105,7 +105,7 @@ Odkazy na zdroj (naše verze je ve Wordu osekaná verze toho pdf):
 	- Např. Genofond smrků na Šumavě, genofond lidstva na Zemi atd.
 
 ### Buněčné dělení
-- ![](https://i.ytimg.com/vi/bRcjB11hDCU/hqdefault.jpg)
+{{< img src="https://i.ytimg.com/vi/bRcjB11hDCU/hqdefault.jpg" >}}
 #### Mitóza
 - = jaderné dělení při kterém z jednoho standardního diploidního jádra vznikou dvě diploidní jádra s totožnou genetickou informací
 - Podmínkou mitózy je *předcházející replikace* každého chromozomu

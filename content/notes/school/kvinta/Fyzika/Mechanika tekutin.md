@@ -29,25 +29,25 @@ $$F_h = S h \rho g$$
 
 ### Hydrostatický paradox
 - Velikost hydrostatické tlakové síly nezávisí na tvaru nádoby a objemy vody (kapaliny) v ní
-	- ![[Pasted image 20220517081636.webp]]
+{{< img src="/notes/assets/Pasted image 20220517081636.webp" >}}
 
 ### Hydrostatický tlak
 - Tlak vyvolaný hydrostatickou tlakovou silou
 $$P_h = \frac{F_h}{S} = h \rho g$$
 - Princip spojených nádob
 	- U dna je všude stejný hydrostatický tlak
-	- ![[Pasted image 20220517082218.webp]]
+{{< img src="/notes/assets/Pasted image 20220517082218.webp" >}}
 
 ### Hustota neznámé kapaliny
 - Kapaliny jsou v obou ramenech v rovnováze jsou-li hydrostatické tlaky v místě společného rozhraní obou kapalin v rovnováze
 - $h_1 \rho _1 g = h_2 \rho _2 g$
 	- $\frac {h_1}{h_2} = \frac{\rho _2}{\rho _1}$
-- ![[Pasted image 20220517082601.webp]]
+{{< img src="/notes/assets/Pasted image 20220517082601.webp" >}}
 
 ## Pascalův zákon
 - > Tlak vyvolaný vnější silou, která působí na kapalné těleso v  uzavřené nádobě, je na všech místech kapaliny stejný
 - Hydraulický lis
-	- ![[Pasted image 20220517082916.webp]]
+{{< img src="/notes/assets/Pasted image 20220517082916.webp" >}}
 		- $p = \frac{F_1}{S_1}$, $p = \frac{F_2}{S_2}$ =>
 		
 		$$\frac{F_1}{S_1} = \frac{F_2}{S_2}$$
@@ -66,9 +66,9 @@ $$F_{vz} = F_2 - F_1 = \rho S h_2 g - \rho S h_1 g = \rho S g (h_2 - h_1)$$
 $$F_{vz} = \rho S h g = \rho V g$$ 
 $$F_G = \rho _t Vg$$
 
-- ![[2022-06-05-15-16-14.webp]]
+{{< img src="/notes/assets/2022-06-05-15-16-14.webp" >}}
 ### Chování těles v kapalině
-- ![[Pasted image 20220602145552.webp]]
+{{< img src="/notes/assets/Pasted image 20220602145552.webp" >}}
 
 ## Proudění
 Objemový průtok i rovnice kontinuity:

@@ -1,6 +1,4 @@
 {
-    "Structure and Interpretation of Computer Programs": [],
-    "Clojure for the Brave and True": [],
     "Macedonian Conquest of Greece": [
         "Athens",
         "Philip II",
@@ -12,12 +10,6 @@
     "Lycurgus": [
         "Archaic Greece",
         "Sparta"
-    ],
-    "Project Organization in Clojure": [
-        "Clojure for the Brave and True"
-    ],
-    "Exiting Modernity": [
-        "Articles"
     ],
     "Lysander": [
         "Classical Greece",
@@ -31,12 +23,6 @@
         "Macedonian Conquest of Persia",
         "Classical Greece",
         "Hellenistic Greece"
-    ],
-    "Steve Jobs on Running a Company": [
-        "Steve Jobs (book)"
-    ],
-    "Complex Harmonical Relationships": [
-        "\u00davod do studia ton\u00e1ln\u00ed harmonie"
     ],
     "Athens": [
         "Macedonian Conquest of Greece",
@@ -55,37 +41,13 @@
         "Ancient Greece",
         "Hellenistic Greece"
     ],
-    "Happiness": [
-        "Sapiens"
-    ],
-    "Clojure": [
-        "Clojure for the Brave and True",
-        "Project Organization in Clojure",
-        "Functional Programming in Clojure",
-        "Clojure Development",
-        "Clojure Core Functions"
-    ],
-    "Philosophy of BAP": [
-        "Bronze Age Mindset"
-    ],
-    "Milestones in Human Evolution": [
-        "Sapiens"
-    ],
     "Macedonian Wars": [
         "Ancient Greece",
         "Hellenistic Greece"
     ],
     "Basic Concepts in Harmony": [
-        "Complex Harmonical Relationships",
         "\u00davod do studia ton\u00e1ln\u00ed harmonie",
         "Music Theory"
-    ],
-    "Esoteric Benefits of School": [
-        "Articles"
-    ],
-    "School": [],
-    "Spend Time Alone": [
-        "Digital Minimalism"
     ],
     "Macedonian Conquest of Persia": [
         "Alexander the Great",
@@ -113,24 +75,8 @@
         "Music Theory",
         "ABC hudebn\u00ed nauky"
     ],
-    "Christianity of Tolstoy": [
-        "The Gospel in Brief"
-    ],
-    "A Bycicle for the Mind": [
-        "Articles"
-    ],
-    "Knowledge": [
-        "Sand Talk"
-    ],
-    "Research": [],
     "\u00davod do studia ton\u00e1ln\u00ed harmonie": [
         "Music Theory"
-    ],
-    "Building Abstractions with Data": [
-        "Structure and Interpretation of Computer Programs"
-    ],
-    "Connection x Conversation": [
-        "Digital Minimalism"
     ],
     "Themistocles": [
         "Athens",
@@ -146,32 +92,20 @@
         "Ancient Greece",
         "Miltiades"
     ],
-    "Awesome Websites": [],
     "Mycenaean Civilization": [
         "Ancient Greece",
         "Greek Dark Ages"
-    ],
-    "Wim Hof Method": [
-        "What Doesn't Kill Us"
     ],
     "Introduction to Harmony": [
         "Basic Concepts in Harmony",
         "\u00davod do studia ton\u00e1ln\u00ed harmonie",
         "Music Theory"
     ],
-    "Sapiens": [],
-    "Health & Productivity": [],
     "Philip II": [
         "Macedonian Conquest of Greece",
         "Alexander the Great",
         "Macedonian Conquest of Persia",
         "Classical Greece"
-    ],
-    "Industrial Revolution and Capitalism": [
-        "Sapiens"
-    ],
-    "Beyond Smart": [
-        "Articles"
     ],
     "Stupnice": [
         "Introduction to Harmony",
@@ -179,47 +113,44 @@
         "Music Theory",
         "ABC hudebn\u00ed nauky"
     ],
-    "kvinta/V\u00fdtvarn\u00e1 V\u00fdchova/_index": [],
-    "kvinta/V\u00fdtvarn\u00e1 V\u00fdchova/Pr\u016f\u0159ez histori\u00ed architektury": [],
-    "kvinta/\u010cesk\u00fd jazyk/Husitsk\u00e1 literatura": [],
-    "kvinta/\u010cesk\u00fd jazyk/Zvukov\u00e1 str\u00e1nka jazyka": [],
-    "kvinta/\u010cesk\u00fd jazyk/Grafick\u00e1 str\u00e1nka jazyka": [],
-    "kvinta/\u010cesk\u00fd jazyk/Romantismus (literatura)": [],
-    "kvinta/\u010cesk\u00fd jazyk/Renesan\u010dn\u00ed literatura": [],
-    "kvinta/\u010cesk\u00fd jazyk/Klasicistn\u00ed literatura": [],
-    "kvinta/\u010cesk\u00fd jazyk/Zvukov\u00e1 str\u00e1nka v\u011bty": [],
-    "kvinta/\u010cesk\u00fd jazyk/_index": [],
-    "kvinta/\u010cesk\u00fd jazyk/Barokn\u00ed literatura": [],
-    "kvinta/Fyzika/T\u011b\u017ei\u0161t\u011b t\u011bles": [],
-    "kvinta/Fyzika/Pohyby t\u011bles v centr\u00e1ln\u00edm gravita\u010dn\u00ed poli": [],
-    "kvinta/Fyzika/_index": [],
-    "kvinta/Fyzika/Mechanika tekutin": [],
-    "kvinta/Fyzika/Gravita\u010dn\u00ed pole": [],
-    "kvinta/Fyzika/Skl\u00e1d\u00e1n\u00ed sil": [],
-    "kvinta/Matematika/Troj\u00faheln\u00edky": [],
-    "kvinta/Matematika/Mno\u017einy bod\u016f": [],
-    "kvinta/Matematika/_index": [],
-    "kvinta/Matematika/Mnohouheln\u00edky": [],
-    "kvinta/Matematika/Z\u00e1kladn\u00ed planimetrick\u00e9 pojmy": [],
-    "kvinta/Biologie/\u010celedi rostlin": [],
-    "kvinta/Biologie/Genetika": [],
-    "kvinta/Biologie/_index": [],
-    "kvinta/Biologie/Kv\u011bt": [],
-    "kvinta/Chemie/\u00davod do analytick\u00e9 chemie": [],
-    "kvinta/Chemie/\u00davod do elektrochemie": [],
-    "kvinta/Chemie/_index": [],
-    "kvinta/_index": [],
-    "kvinta/D\u011bjepis/_index": [],
-    "kvinta/D\u011bjepis/Ran\u00fd st\u0159edov\u011bk": [],
-    "kvinta/D\u011bjepis/Antick\u00fd \u0158\u00edm 2": [],
+    "school/kvinta/V\u00fdtvarn\u00e1 V\u00fdchova/_index": [],
+    "school/kvinta/V\u00fdtvarn\u00e1 V\u00fdchova/Pr\u016f\u0159ez histori\u00ed architektury": [],
+    "school/kvinta/\u010cesk\u00fd jazyk/Husitsk\u00e1 literatura": [],
+    "school/kvinta/\u010cesk\u00fd jazyk/Zvukov\u00e1 str\u00e1nka jazyka": [],
+    "school/kvinta/\u010cesk\u00fd jazyk/Grafick\u00e1 str\u00e1nka jazyka": [],
+    "school/kvinta/\u010cesk\u00fd jazyk/Romantismus (literatura)": [],
+    "school/kvinta/\u010cesk\u00fd jazyk/Renesan\u010dn\u00ed literatura": [],
+    "school/kvinta/\u010cesk\u00fd jazyk/Klasicistn\u00ed literatura": [],
+    "school/kvinta/\u010cesk\u00fd jazyk/Zvukov\u00e1 str\u00e1nka v\u011bty": [],
+    "school/kvinta/\u010cesk\u00fd jazyk/_index": [],
+    "school/kvinta/\u010cesk\u00fd jazyk/Barokn\u00ed literatura": [],
+    "school/kvinta/Fyzika/T\u011b\u017ei\u0161t\u011b t\u011bles": [],
+    "school/kvinta/Fyzika/Pohyby t\u011bles v centr\u00e1ln\u00edm gravita\u010dn\u00ed poli": [],
+    "school/kvinta/Fyzika/_index": [],
+    "school/kvinta/Fyzika/Mechanika tekutin": [],
+    "school/kvinta/Fyzika/Gravita\u010dn\u00ed pole": [],
+    "school/kvinta/Fyzika/Skl\u00e1d\u00e1n\u00ed sil": [],
+    "school/kvinta/Matematika/Troj\u00faheln\u00edky": [],
+    "school/kvinta/Matematika/Mno\u017einy bod\u016f": [],
+    "school/kvinta/Matematika/_index": [],
+    "school/kvinta/Matematika/Mnohouheln\u00edky": [],
+    "school/kvinta/Matematika/Z\u00e1kladn\u00ed planimetrick\u00e9 pojmy": [],
+    "school/kvinta/Biologie/\u010celedi rostlin": [],
+    "school/kvinta/Biologie/Genetika": [],
+    "school/kvinta/Biologie/_index": [],
+    "school/kvinta/Biologie/Kv\u011bt": [],
+    "school/kvinta/Chemie/\u00davod do analytick\u00e9 chemie": [],
+    "school/kvinta/Chemie/\u00davod do elektrochemie": [],
+    "school/kvinta/Chemie/_index": [],
+    "school/kvinta/_index": [],
+    "school/kvinta/D\u011bjepis/_index": [],
+    "school/kvinta/D\u011bjepis/Ran\u00fd st\u0159edov\u011bk": [],
+    "school/kvinta/D\u011bjepis/Antick\u00fd \u0158\u00edm 2": [],
+    "school/_index": [],
     "Ars Antiqua": [
         "\u00davod do studia ton\u00e1ln\u00ed harmonie",
         "Music Theory"
     ],
-    "The Four Laws of Behavior Change": [
-        "Atomic Habits"
-    ],
-    "Books": [],
     "Classical Greece": [
         "Athens",
         "Ancient Greece",
@@ -231,70 +162,20 @@
         "Persian Wars",
         "Classical Greece"
     ],
-    "Bronze Age Mindset": [
-        "Philosophy of BAP"
-    ],
-    "The Attention Resistance": [
-        "Digital Minimalism"
-    ],
     "Corinth": [
         "Ancient Greece",
         "Corinthian War",
         "Peloponnesian War"
     ],
-    "Characteristics of Monopolies": [
-        "Zero to One"
-    ],
-    "P\u0159ednesov\u00e1 a jin\u00e1 ozna\u010den\u00ed": [
-        "Music Theory",
-        "ABC hudebn\u00ed nauky"
-    ],
-    "Reclaim Leisure": [
-        "Digital Minimalism"
-    ],
     "Music Theory": [],
-    "Foundations of a Startup": [
-        "Zero to One"
-    ],
-    "Four Possible Patterns for the Future of Humanity": [
-        "Zero to One"
-    ],
-    "Horizontal and Vertical Progress": [
-        "Zero to One"
-    ],
-    "Zero to One": [],
     "Presocratic Philosophy": [
         "Archaic Greece"
     ],
-    "The Dark Enlightenment": [
-        "Articles"
-    ],
-    "Sales": [
-        "Zero to One"
-    ],
-    "Building Abstractions with Procedures": [
-        "Structure and Interpretation of Computer Programs"
-    ],
     "Ancient Greece": [],
-    "Contrarian Thinking": [
-        "Zero to One"
-    ],
-    "Globalization Means Substitution, Technology Means Complementarity": [
-        "Zero to One"
-    ],
-    "Clojure Macros": [
-        "Clojure for the Brave and True"
-    ],
-    "Narcissism and Civilization": [
-        "Sand Talk"
-    ],
     "Miltiades": [
         "Themistocles",
         "Persian Wars",
         "Classical Greece"
-    ],
-    "Speech to Undergrads (Judah)": [
-        "Articles"
     ],
     "Greek Dark Ages": [
         "Ancient Greece"
@@ -305,25 +186,11 @@
         "Ancient Greece",
         "Sparta"
     ],
-    "Seven Questions Every Business Must Answer": [
-        "Zero to One"
-    ],
-    "Functional Programming in Clojure": [
-        "Clojure for the Brave and True"
-    ],
     "Archaic Greece": [
         "Athens",
         "Ancient Greece",
         "Introduction to Ancient Greece",
         "Sparta"
-    ],
-    "Clojure Syntax": [
-        "Clojure for the Brave and True"
-    ],
-    "What Is Effective Altruism": [
-        "How to Choose a Career",
-        "Effective Altruism",
-        "Doing Good Better"
     ],
     "Pericles": [
         "Athens",
@@ -333,42 +200,14 @@
         "Alcibiades",
         "Cleisthenes"
     ],
-    "Economic Bubbles Have Long-Term Effects": [
-        "Zero to One"
-    ],
-    "How to Choose a Career": [
-        "Effective Altruism",
-        "Doing Good Better"
-    ],
-    "Habits Compounding": [
-        "Atomic Habits"
-    ],
-    "Money, Empires and Ideologies as Unifiers of Mankind": [
-        "Sapiens"
-    ],
-    "Where to Focus": [
-        "Atomic Habits"
-    ],
-    "Articles": [],
     "Akordy": [
         "Introduction to Harmony",
         "Music Theory",
         "ABC hudebn\u00ed nauky"
     ],
-    "Why Digital Minimalism": [
-        "Digital Minimalism"
-    ],
-    "Atomic Habits": [],
-    "Habits and Identity": [
-        "Atomic Habits"
-    ],
     "Introduction to Ancient Greece": [
         "Ancient Greece"
     ],
-    "What Is Digital Minimalism": [
-        "Digital Minimalism"
-    ],
-    "What Doesn't Kill Us": [],
     "_index": [],
     "ABC hudebn\u00ed nauky": [
         "Music Theory"
@@ -383,9 +222,6 @@
         "Alcibiades",
         "Sparta"
     ],
-    "The Power Law of Venture Capital": [
-        "Zero to One"
-    ],
     "Ars Nova": [
         "\u00davod do studia ton\u00e1ln\u00ed harmonie",
         "Music Theory"
@@ -394,38 +230,14 @@
         "Mycenaean Civilization",
         "Ancient Greece"
     ],
-    "Effective Altruism": [],
-    "Science and Society": [
-        "Sapiens"
-    ],
-    "Keep Your Identity Small": [
-        "Articles"
-    ],
     "Achean League": [
         "Ancient Greece",
         "Sparta",
         "Hellenistic Greece"
     ],
-    "Steve Jobs": [
-        "Steve Jobs (book)"
-    ],
-    "What's Behind Wim Hof Method": [
-        "What Doesn't Kill Us"
-    ],
-    "Digital Minimalism": [],
-    "Moral Licensing": [
-        "Effective Altruism",
-        "Doing Good Better"
-    ],
     "Alcibiades": [
         "Classical Greece",
         "Peloponnesian War"
-    ],
-    "Clojure Development": [
-        "Clojure for the Brave and True"
-    ],
-    "Digital Declutter": [
-        "Digital Minimalism"
     ],
     "Boeatian War": [
         "Athens",
@@ -439,53 +251,22 @@
         "Archaic Greece",
         "Draco"
     ],
-    "What Made Lisp Different": [
-        "Articles"
-    ],
-    "How to Choose a Charity": [
-        "Effective Altruism",
-        "Doing Good Better"
-    ],
     "Peisistratos": [
         "Athens",
         "Archaic Greece"
     ],
-    "Steve Jobs (book)": [],
     "Takt a Rytmus": [
         "Music Theory",
         "ABC hudebn\u00ed nauky"
     ],
-    "Founders in History": [
-        "Zero to One"
-    ],
-    "The Gospel in Brief": [],
-    "History and Historians": [
-        "Sapiens"
-    ],
-    "Sand Talk": [],
     "Intervaly": [
         "Music Theory",
         "ABC hudebn\u00ed nauky"
-    ],
-    "How to Build a Monopoly": [
-        "Zero to One"
     ],
     "Cleisthenes": [
         "Athens",
         "Cleomenes",
         "Archaic Greece"
-    ],
-    "Non-linear Thinking": [
-        "Sand Talk"
-    ],
-    "Sustainability": [
-        "Sand Talk"
-    ],
-    "Monopolies Are Good": [
-        "Zero to One"
-    ],
-    "Doing Good Better": [
-        "Effective Altruism"
     ],
     "Sparta": [
         "Lysander",
@@ -497,26 +278,13 @@
         "Archaic Greece",
         "Boeatian War"
     ],
-    "Untitled": [],
-    "Clojure Core Functions": [
-        "Clojure for the Brave and True"
-    ],
-    "Design Philosophy of Steve Jobs": [
-        "Steve Jobs (book)"
-    ],
     "Hellenistic Greece": [
         "Ancient Greece",
         "Introduction to Ancient Greece"
     ],
-    "Four Ways to See the Future": [
-        "Zero to One"
-    ],
     "Draco": [
         "Athens",
         "Archaic Greece"
-    ],
-    "Steve Jobs on Managment and Presentations": [
-        "Steve Jobs (book)"
     ],
     "Renaissance Music": [
         "\u00davod do studia ton\u00e1ln\u00ed harmonie",

@@ -5,36 +5,53 @@ mark {
     color: var(--text-color);
     background-color: var(--secondary-bg-color);
 }
-article img {
+/* article img {
     display: inline-block;
     max-width: 350px;
     border: 2px solid gray;
     padding: 1px;
     margin: 0.8rem;
-}
-@media only screen and (min-width: 601px){
-    article img:hover {
-/*        position: relative;
-        left: -3rem;*/
-        margin:  none;
-        max-width: 100%;
-    }
-}
-@media only screen and (max-width: 600px){
-    article img {
-       max-width:  50vw;
-    }
+} */
 
+figure {
+    border: var(--secondary-bg-color) 1px solid;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+
+}
+figure img:hover {
+    border-bottom-color: var(--terciary-bg-color);
+}
+figure img {
+    width: 100%;
+    max-width: 400px;
+    padding: 0;
+    border: 2px solid var(--secondary-bg-color);
+    margin: 0;
+}
+figure a {
+    color: var(--text-color);
+    padding: 0;
+    margin: 0;
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+}
+figure figcaption {
+    font-style: italic;
+    text-align: center;
+    padding: 4px 3px 5px;
+    font-size: 0.8em;
+}
+
+@media only screen and (max-width: 800px){
     ul {
         padding-inline-start: 1rem;
     }
-
-    article img:active {
-        width: 100%;
-    }
 }
 ol {
-    padding-inline-start: 20px;
+    padding-inline-start: 40px;
 }
 h2, h3, h4, h5, h6 {
     padding-top: 7px;
@@ -54,6 +71,7 @@ th, td {
     max-width: 300px;
 }
 .backlinks ul {
+    font-size: 0.9em;
     padding-left: 0.1rem;
     list-style-type: none;
     margin-block-start: 0;
