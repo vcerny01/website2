@@ -3,18 +3,15 @@ p {
     margin-bottom: 0.5rem;
     padding: 0;
 }
-
 h1 {
     text-align: left;
     padding:0;
     font-weight: 400;
 }
-
 h4 {
     padding: 0;
     margin: 0;
 }
-
 .links a {
     padding-right: 1em;
     color: var(--secondary-link-color);
@@ -23,7 +20,6 @@ h4 {
     text-decoration: none;
     color: var(--secondary-bg-color);
 }
-
 .column:nth-of-type(3) img{
     max-width: 100px;
     float: right;
@@ -48,6 +44,7 @@ h4 {
 @media only screen and (max-width: 800px)
 {
     .container {
+        margin-top: -2rem;
         display: flex;
         flex-direction: column;
     }

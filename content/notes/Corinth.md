@@ -19,4 +19,4 @@ date: 2022-03-10
 		- Harsher ruler than his father 
 		- Member of the *Seven Sages*
 			- That is a title given by classical greek tradition to seven statesmen and law-givers of the 7th and 6th century BC
-				- It included Thales, Solon, Pittacus, Chilon, Cleobulus and Periander
+				- It included [[Milesian School#Thales|Thales]], Solon, Pittacus, Chilon, Cleobulus and Periander

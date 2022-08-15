@@ -35,4 +35,7 @@ section{
 	.gallery {
 		height: 30vw;
 	}
+	.gallery {
+		height: 100px;
+	}
 }

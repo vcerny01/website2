@@ -11,6 +11,7 @@
         "Archaic Greece",
         "Sparta"
     ],
+    "Ancient Philosophy": [],
     "Lysander": [
         "Classical Greece",
         "Corinthian War",
@@ -101,6 +102,10 @@
         "\u00davod do studia ton\u00e1ln\u00ed harmonie",
         "Music Theory"
     ],
+    "Milesians": [
+        "Presocratic Philosophy",
+        "Eleatics"
+    ],
     "Philip II": [
         "Macedonian Conquest of Greece",
         "Alexander the Great",
@@ -147,6 +152,7 @@
     "school/kvinta/D\u011bjepis/Ran\u00fd st\u0159edov\u011bk": [],
     "school/kvinta/D\u011bjepis/Antick\u00fd \u0158\u00edm 2": [],
     "school/_index": [],
+    "Cool Websites": [],
     "Ars Antiqua": [
         "\u00davod do studia ton\u00e1ln\u00ed harmonie",
         "Music Theory"
@@ -169,6 +175,7 @@
     ],
     "Music Theory": [],
     "Presocratic Philosophy": [
+        "Ancient Philosophy",
         "Archaic Greece"
     ],
     "Ancient Greece": [],
@@ -188,6 +195,7 @@
     ],
     "Archaic Greece": [
         "Athens",
+        "Milesians",
         "Ancient Greece",
         "Introduction to Ancient Greece",
         "Sparta"
@@ -199,6 +207,12 @@
         "Peloponnesian War",
         "Alcibiades",
         "Cleisthenes"
+    ],
+    "Heraclitus": [
+        "Presocratic Philosophy"
+    ],
+    "Pythagoras": [
+        "Presocratic Philosophy"
     ],
     "Akordy": [
         "Introduction to Harmony",
@@ -267,6 +281,9 @@
         "Athens",
         "Cleomenes",
         "Archaic Greece"
+    ],
+    "Eleatics": [
+        "Presocratic Philosophy"
     ],
     "Sparta": [
         "Lysander",

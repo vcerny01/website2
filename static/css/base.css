@@ -78,12 +78,10 @@ article {
 }
 
 blockquote {
+    display: table;
     background-color: var(--secondary-bg-color);
     border-left: var(--terciary-bg-color) solid 5px;
-    width: fit-content;
-    height: fit-content;
     padding: 9px;
-    padding-right: 10%;
     margin: 10px 0 10px;
 }
 
@@ -139,7 +137,9 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 
 #navbar {
     max-width: 900px;
+    width: 100%;
     margin: auto;
+    margin-top: -1rem;
     padding-bottom: 5px;
     border-bottom: var(--terciary-bg-color) solid 2px;
 }
@@ -147,6 +147,9 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 @media only screen and (max-width: 800px){
     #navbar{
         font-size: 0.7em;
+    }
+    p {
+        margin-left: 5px;
     }
 }
 
@@ -162,6 +165,11 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 #navbar-name a:hover {
     text-decoration: none;
+}
+#main-container {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
 }
 
 .footer {
@@ -225,7 +233,8 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 
 .metadata {
     border-left: 2px solid var(--terciary-bg-color);
-    padding: 1rem;
+    padding: 7px;
+    padding-left: 1rem;
     margin-top: 1rem;
     height: fit-content;
 }
@@ -241,10 +250,12 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     margin-right: 0;
     margin-top: 1rem;
     width: fit-content;
-    padding: 0.5rem;
+    padding: 4px;
+    padding-top: 7px;
     border-top: 2px solid var(--terciary-bg-color);
 }
 #toc ul {
+    margin: 0;
     list-style-type: decimal;
     counter-reset: item;
     padding-inline-start: 10px;
@@ -366,6 +377,57 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 #filter:focus {
     outline: none;
+}
+
+/* IMAGES */
+figure {
+    border: var(--secondary-bg-color) 1px solid;
+    border-bottom: none;
+    font-style: italic;
+    text-align: center;
+    display: table;
+    width: fit-content;
+    float: right;
+    padding: 5px;
+    margin-top: 1rem;
+    max-width: 300px;
+    max-height: 320px;
+}
+figure img:hover {
+    border-bottom-color: var(--terciary-bg-color);
+}
+figure img {
+    background-color: var(--bg-color-tinted);
+    max-width: 300px;
+    max-height: 250px;
+    width: 100%;
+    padding: 0;
+    border: 2px solid var(--secondary-bg-color);
+    margin: 0;
+}
+figure a {
+    color: var(--text-color);
+    padding: 0;
+    margin: 0;
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+}
+figure figcaption {
+    border: var(--secondary-bg-color) 1px solid;
+    border-top: none;
+    display: table-caption;
+    caption-side: bottom;
+    padding: 4px 3px 5px;
+    font-size: 0.8em;
+}
+
+@media only screen and (max-width: 800px) {
+    figure {
+        float: none;
+        margin: 0 auto;
+        margin-top: 1rem;
+    }
 }
 
 /* MISC */

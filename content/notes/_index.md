@@ -87,6 +87,8 @@ The notes I share are seperated based on source. Notes from school are seperated
 ## Get Started
 Start exploring my notes from school **[HERE](/notes/school)**.
 
+For more useful resources and interesting blogs, here's my list of [cool websites](/notes/cool-websites).
+
 Other notes by topics:
 
 <div class="filter-field">
@@ -121,5 +123,11 @@ Other notes by topics:
     title="Music Theory"
     img-src="/images/main/cover-music-theory.webp"
     description="Reference to concepts from music theory (including harmony). All written in Czech."
+>}}
+{{< topic
+    link="/notes/ancient-philosophy"
+    title="Ancient Philosophy"
+    img-src="/images/main/cover-ancient-philosophy.webp"
+    description="Ancient philosophers, mostly from Greece and Rome. Written in English"
 >}}
 </div>

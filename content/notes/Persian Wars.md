@@ -7,11 +7,10 @@ date: 2022-03-11
 - War between ancient Greek city-states and Persia
 - Based from a big part on writings from Herodotus
 - ==492 – 449 BC==
+{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FEshVTiIH2T.png?alt=media&token=db84e844-8299-41e3-abff-63f48f984b54" caption="The Persian Empire in 490 B.C." >}}
 - ### Ionian revolt
     - Greek city-states in Anatolia were under Persian control
-{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FEshVTiIH2T.png?alt=media&token=db84e844-8299-41e3-abff-63f48f984b54" caption="The Persian Empire in 490 B.C." >}}
     - Ionians revolted in ==499 – 494 BC==
-{{< img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ionian_Revolt_Campaign_Map.png/1024px-Ionian_Revolt_Campaign_Map.png" caption="Battles of the Ionian Revolt" >}}
     - They were led by Aristagoras, the tyrant of Miletus
         - He asks [[Sparta]] and [[Athens]] to help him Spartans declined, but Athens came to help
             - Probably because former Athenian tyrant Hippias was exiled in Persia and seemed to be planning his return to power
@@ -19,6 +18,7 @@ date: 2022-03-11
                 - The revolt spread after the [battle of Sardis](http://www.historyofwar.org/articles/battles_sardis_498.html) (==498 BC==) (important persian outpost)
     - In ==494 BC==, the revolt was finally crushed
         - Miletus was sacked and burned as a revenge for the destruction of Sardis 
+{{< img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ionian_Revolt_Campaign_Map.png/1024px-Ionian_Revolt_Campaign_Map.png" caption="Battles of the Ionian Revolt" >}}
 - After the revolt, Persians went demanding earth and water as a symbol of surrendering
     - Sacrilige in Athens and Sparta
         - When the convoy came to Athens, they were killed
