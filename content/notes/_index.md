@@ -70,19 +70,28 @@ date: 2022-07-29
 ## Purpose
 I don't thinks complex note-taking systems, e.g., zettelkasten, are useful. In fact, I view notes only as a medium between material I study and my thinking. If I could remember everything I read, I wouldn't take notes, I would write essays.
 
-I don't put all my notes online. I put some of my notes on this website for the following reasons:
+I put some of my notes on this website for the following reasons:
+
 1. **Quick reference**
 
-The internet is full of information, but it's a messy place. Hence it has proven to be useful for me to have a website over content and features of which I have full control.
+It has proven useful for me to have a website over content and features of which I have full control.
 
 2. **Helping others**
 
 Some people could find my notes useful, so why wouldn't I share them?
 
 ## Organization
-First of all, I don't put all of my notes online. Plenty of notes I've written on paper, and I don't intent to digitalize them. Also, more practical notes (especially personal stuff) I have in a seperate text-based system.
+First of all, I don't put all of my notes online. Plenty of notes I've written on paper, and I don't intent to digitize them. Also, more practical notes (especially personal stuff) I have in a seperate text-based system.
 
-The notes I share are seperated based on source. Notes from school are seperated into grades and further into courses (subjects). They are structured hierarchically, there is very little linking between them. In contrast, notes from my own studies are non-hierarchically structured. They are interlinked and organically grouped by topics.
+I share two kinds of notes:
+
+1. **Notes from school**
+
+They are are seperated into grades and further into courses (subjects). They are structured hierarchically. There is very little linking between them.
+
+2. **Notes from my own studies**
+
+They are non-hierarchically structured. They are frequently linked to each other and organically grouped by topics. (see below)
 
 ## Get Started
 Start exploring my notes from school **[HERE](/notes/school)**.

@@ -187,7 +187,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 .footer button {
     outline: none;
     font-family: inherit;
-    color: var(--secondary-text-color);
+    color: var(--text-color);
     background-color: var(--secondary-bg-color);
     padding: 5px;
     font-size: 0.8em;
@@ -211,6 +211,12 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 .footer-socials a:hover {
     text-decoration: none;
     color: var(--terciary-bg-color);
+}
+.footer span {
+    font-size: 0.7em;
+    color: var(--secondary-text-color)
+    padding: 0;
+    margin: 0;
 }
 
 /* METADATA*/
