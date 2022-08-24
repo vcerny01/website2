@@ -44,6 +44,4 @@ longing to come to their own dear kind. <br>
 For know that all things possess thought and a portion of intelligence. <br>
 (Hippolytus, *Refutation of All Heresies* 7.29.25)
 
-> That which has to do with males came to be in the warmer part of the earth,and this is why men are dark and have stronger limbs and more hair.
-
-(Galen, *Commentary on Hippocrates’ Epidemics* 6, 2.46)
+> That which has to do with males came to be in the warmer part of the earth,and this is why men are dark and have stronger limbs and more hair. (Galen, *Commentary on Hippocrates’ Epidemics* 6, 2.46)
