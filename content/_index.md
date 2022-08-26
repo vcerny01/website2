@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Vít Černý
+cover: "/images/main/me.jpg"
 outputs:
 - html
 - json

@@ -6,6 +6,7 @@ defaultContentLanguage = "en"
   home = ["HTML", "RSS", "JSON"]
 [params]
   description = "Personal website of Vít Černý"
+  twitterHandle = "@VitCerny1"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

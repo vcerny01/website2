@@ -28,11 +28,13 @@
         "Athens",
         "Wars of the Diadochi",
         "Macedonian Conquest of Persia",
+        "Socratic Philosophy",
         "Classical Greece",
         "Hellenistic Greece"
     ],
     "Athens": [
         "Macedonian Conquest of Greece",
+        "Sophists",
         "Themistocles",
         "Persian Wars",
         "Classical Greece",
@@ -47,6 +49,10 @@
     "Wars of the Diadochi": [
         "Ancient Greece",
         "Hellenistic Greece"
+    ],
+    "Sophists": [
+        "Socratic Philosophy",
+        "Presocratic Philosophy"
     ],
     "Macedonian Wars": [
         "Ancient Greece",
@@ -88,6 +94,11 @@
     "Themistocles": [
         "Athens",
         "Classical Greece"
+    ],
+    "Socratic Philosophy": [
+        "Ancient Philosophy",
+        "Classical Greece",
+        "Presocratic Philosophy"
     ],
     "Persian Wars": [
         "Macedonian Conquest of Greece",
@@ -182,6 +193,7 @@
     "Music Theory": [],
     "Presocratic Philosophy": [
         "Ancient Philosophy",
+        "Socratic Philosophy",
         "Archaic Greece"
     ],
     "Ancient Greece": [],
@@ -208,6 +220,7 @@
     ],
     "Pericles": [
         "Athens",
+        "Sophists",
         "Persian Wars",
         "Classical Greece",
         "Peloponnesian War",
@@ -292,6 +305,7 @@
     "Eleatics": [
         "Presocratic Philosophy"
     ],
+    "socrates": [],
     "Sparta": [
         "Lysander",
         "Athens",

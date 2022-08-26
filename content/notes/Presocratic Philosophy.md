@@ -14,7 +14,7 @@ No Presocratic book has survived intact so what we know is gathered from other p
 
 {{< img src="/notes/assets/presocratics-timeline.png" caption="Timeline of the Presocratics" >}}
 
-## Notes
+## Philosophers
 
 - [[Milesians]] (Thales, Anaximander, Anaximenes)
 - [[Pythagoras]] (and the Pythagoreans)
@@ -22,4 +22,7 @@ No Presocratic book has survived intact so what we know is gathered from other p
 - [[Heraclitus]]
 - [[Empedocles]]
 - [[Democritus]]
-- [[Sophists]]
+
+(I decided to categorise the [[Sophists]] among [[Socratic Philosophy]] as they were contemporaries of Socrates)
+
+Other less known presocratic philosophers I didn't cover include: Anaxagoras of Clazomenae, Melissus of Samos, Philolaus of Croton, Diogenes of Apollonia.

@@ -168,7 +168,4 @@ toc: true
 - [[Thucydides]]
 - [[Xenophon]]
 ### Philosophers
-- [[Socrates]]
-- [[Plato]]
-- [[Aristotle]]
-- [[Diogenes]]
+- [[Socratic Philosophy]]

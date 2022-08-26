@@ -214,7 +214,7 @@ h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 .footer span {
     font-size: 0.7em;
-    color: var(--secondary-text-color)
+    color: var(--secondary-text-color);
     padding: 0;
     margin: 0;
 }
@@ -424,7 +424,7 @@ figure figcaption {
     border-top: none;
     display: table-caption;
     caption-side: bottom;
-    padding: 4px 3px 5px;
+    padding: 4px 5px 5px;
     font-size: 0.8em;
 }
 
