@@ -20,7 +20,7 @@
         <div class="metadata" {{if .Params.disable_toc}} style="margin: 0.4rem auto; float: none; margin-bottom: 30px;"{{end}}>
                 {{if .Params.date}}
                     <div><span>Published:</span> {{ time.Format "Jan 2, 2006" .Params.date}}</div>
-                    {{if .Params.tags}}<div><span>Tags:</span>{{range .Params.tags}} <a href="/tags/{{lower .}}">{{.}}</a>{{end}}</div>{{end}}
+                    {{if .Params.tags}}<div><span>Tags:</span>{{range .Params.tags}} <a href="/tags/{{lower .}}">{{.}}</a>;{{end}}</div>{{end}}
                 {{end}}
         </div>
             <!-- Table of Contents -->

@@ -1,7 +1,7 @@
 ---
 title: I’m Gonna Start Doing All the Self-Improvement Memes
 layout: article
-cover: /images/gallery/2018/3/2.webp
+cover: /images/misc/2022/painting-swimming-mountain-lake.webp
 date: "2022-03-19"
 tags:
 - Lifestyle

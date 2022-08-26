@@ -395,7 +395,7 @@ figure {
     width: fit-content;
     float: right;
     padding: 5px;
-    margin-top: 1rem;
+    margin: 1rem;
     max-width: 300px;
     max-height: 320px;
 }

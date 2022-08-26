@@ -17,7 +17,7 @@ Xenophanes was born in Colophon (now on the western coast of Turkey) around 570 
 
 Besides typical poetic topics, Xenophanes addressed theological question. He rejected the traditional view of Olympian gods (such as are found in Homer or Hesiod), divination and theological significance of natural phenomena. Instead, he proposed that there is a supreme non-antropomorphic god, who controls the universe by thought. In rejecting theologically-backed knowledge of the natural world, he claimed humans must discover the laws of nature by themselves, via inquiry.
 
-He also had keen interest in the natural world. He wrote about fossils of sea creatures, developed a a complicated "cloud astrophysics", etc. Overall, his opinions were rather radical even for a poet, e.g., he lamented over-glorification of athletes.
+He also had a keen interest in the natural world. He wrote about fossils of sea creatures, developed a complicated "cloud astrophysics", etc. Overall, his opinions were rather radical even for a poet, e.g., he lamented over-glorification of athletes.
 
 > Once he passed by as a puppy was being beaten, the story goes, and in pity said these words: <br>
 “Stop, do not beat him, since it is the soul of a man, a friend of mine, which I recognized when I heard it crying.” (Diogenes Laertius, *Lives of the Philosophers* 8.36)

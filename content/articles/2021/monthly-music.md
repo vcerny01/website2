@@ -4,7 +4,8 @@ title: "Monthly Music: Introduction"
 cover: "https://i.ytimg.com/vi/tKia9mLiQqA/maxresdefault.jpg"
 date: 2021-10-03
 tags:
-- Monthly Music
+- Music
+- Music Review
 toc: true
 
 ---
@@ -17,14 +18,14 @@ I often listen to music, so I decided to start writing monthly articles about so
 
 ## How I Listen to Music
 
-Primarily, I grow my music collection (mostly lossless) on an external HDD. I used to be a self-proclaimed audiophile, but I changed my mind and now I think the quality of 320 kbps MP3 is quite good enough.
+Primarily, I grow my music collection (mostly lossless) on an external HDD. I used to be a self-proclaimed audiophile, but I changed my mind and now I store all my music in 320 kbps m4a.
 
-I use my headphones, at the time of writing, Senheiser 350BT, most of the time. Can't afford a fancy sound system, yet.
+I use my headphones, at the time of writing, Senheiser 450BT, most of the time. Can't afford a fancy sound system, yet.
 
 I usually discover new music via Spotify, I don't pay for it, but the algorithms are awesome. I often find new music just by learning and reading stuff, though.
 
-Music players don't really matter, but I really like Foobar2000 (which I don't use as it is exclusively for Windows)
+Music players don't really matter, but I like Foobar2000.
 
 ## Monthly Music
 
-Every month, I'll listen to 7 albums and review them in an article on this website. I might finally consider adding tags for that matter.
+Every month, I'd like to review one album.
