@@ -13,7 +13,7 @@ Most of what we know about them comes from [[Plato]], who was definitely not imp
 ## Philosophers
 
 ### Protagoras
-{{< img src="/notes/assets/protagoras-bust.png" caption="Bust of Protagoras" >}}
+{{< img src="/notes/assets/protagoras-bust.webp" caption="Bust of Protagoras" >}}
 
 Protagoras was born in Abdera, Thrace, in 490 BC. He died around 420 BC. He was well known everywhere in the Greek world, but he spent most of his time in Athens around [[Pericles]].
 

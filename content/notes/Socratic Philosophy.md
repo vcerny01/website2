@@ -11,7 +11,7 @@ In the beginning, this period is characterised by the conflict between Socrates 
 Unlike with the [[Presocratic Philosophy|Presocratics]], we no longer have to rely on fragments and references, many books have survived in whole.
 
 ## Philosophers
-{{< img src="/notes/assets/socratics-timeline.png" caption="Timeline of the Sophists and Socratics (without some Sophists and Aristotle who comes right after Plato)" >}}
+{{< img src="/notes/assets/socratics-timeline.webp" caption="Timeline of the Sophists and Socratics (without some Sophists and Aristotle who comes right after Plato)" >}}
 
 - [[Sophists]]
 - [[Socrates]]

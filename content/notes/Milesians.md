@@ -40,7 +40,7 @@ Anaximander sees the originating stuff of the cosmos as something indefinite (*a
 > Anaximander … believed that there arose from heated water and earth either fish or animals very like fish. In these, humans grew and were kept inside as embryos up to puberty. Then finally they burst, and men and women came forth already able to nourish themselves. (Censorinus, On the Day of Birth 4.7)
 
 ### Anaximenes
-{{< img src="/notes/assets/anaximenes.png" >}}
+{{< img src="/notes/assets/anaximenes.webp" >}}
 
 Born around 585 BC, he was a student of Anaximander. Like Thales, he agreed that there is one original stuff, but he thought it was aēr (usually translated as air, but this was less transparent). He explicitly mentions condensation and rarefaction as the process that transforms aēr and the other stuff of the cosmos.
 

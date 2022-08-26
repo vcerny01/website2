@@ -39,7 +39,7 @@ to be of the same frame that each of them have. (Clement, *Miscellanies* 5.110)
 
 ### Parmenides
 
-{{< img src="/notes/assets/parmenides.png" caption="Bust of Parmenides discovered at Velia" >}}
+{{< img src="/notes/assets/parmenides.webp" caption="Bust of Parmenides discovered at Velia" >}}
 
 Parmenides was born in Elea (today an Italian town called Velia) around 515 BC. He was a student of Xenophanes, but didn't adopt his views. Like Xenophanes, he wrote in verse.
 
@@ -92,7 +92,7 @@ be reliably, being indeed, the whole of things. <br>
 
 ### Zeno of Elea
 
-{{< img src="/notes/assets/zeno-of-elea.png" >}}
+{{< img src="/notes/assets/zeno-of-elea.webp" >}}
 
 The most of what we know about Zeno's life comes from Plato's dialogue *Parmenides*. He was probably born around 490 BC. (Plato claims he was 25 years younger than Parmenides) Also, according to Plato, Zeno and Parmenides visited Athens in about 450 BC and met young Socrates. Zeno mostly explored consequences of Parmenides' teaching via thought experiments.
 

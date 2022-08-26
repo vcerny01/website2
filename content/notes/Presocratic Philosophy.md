@@ -12,7 +12,7 @@ The way these early thinkers express their ideas is to a large part shaped by th
 
 No Presocratic book has survived intact so what we know is gathered from other philosophers. The evidence is of two sorts: direct quotations (called *the fragments*) and summaries or references to the thinkers and their views (called *testimonia*) 
 
-{{< img src="/notes/assets/presocratics-timeline.png" caption="Timeline of the Presocratics" >}}
+{{< img src="/notes/assets/presocratics-timeline.webp" caption="Timeline of the Presocratics" >}}
 
 ## Philosophers
 
