@@ -18,13 +18,12 @@ Largely self-taught, but with experience in business environment.
 
 - **Web**
     - HTML/CSS
-    - JS (frontend)
+    - JS (basic frontend, no frameworks yet)
 - **Scripting**
     - Python
     - Shell scripting
         - Bash, fish
     - Racket
-    - PHP
 - **Desktop apps**
     - C#
         - .NET
