@@ -10,7 +10,12 @@ if (localStorage.getItem("isDarkMode") == null)
         themeButton.className = temp.replace("fa-sun", "fa-moon");
     }
     else {
-        localStorage.setItem("isDarkMode", "0");
+        // localStorage.setItem("isDarkMode", "0"); changed until I fix the light color scheme
+        // FOR NOW
+        docEl.className = "dark"; //change after testing
+        localStorage.setItem("isDarkMode", "1");
+        themeButton.className = temp.replace("fa-sun", "fa-moon");
+        // END
     }
 }
 else {
