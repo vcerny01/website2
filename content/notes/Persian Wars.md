@@ -24,6 +24,7 @@ date: 2022-03-11
         - When the convoy came to Athens, they were killed
         - When the convoy came to Sparta, the Spartans threw them into a well and told them to get their own earth and water
 ---
+
 - Persians invade mainland Greece
     - Their first target is Eritrea, they land there and destroy it
     - ### Battle of Marathon
@@ -31,12 +32,11 @@ date: 2022-03-11
         - Athenians and Persians (under their king [[Darius]]) meet north of Athens
         - Surprising decisive Greek victory
             - Mostly because of the hoplite tactics and much more effective and heavy armor
-        - Athenian general in charge, [[Miltiades]], puts the best troops off to the side, where they can attack Persian flanks
 {{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2F5TLs3rpIea.webp?alt=media&token=042f08d3-c86d-4fc1-9e8e-8cd111878327" caption="Battle of Marathon" >}}
+        - Athenian general in charge, [[Miltiades]], puts the best troops off to the side, where they can attack Persian flanks
             - It worked great and Herodotus tells us the final causulties were 192 Greeks over 6,000 Persians
         - There's the story of the famous runner Pheidippides, who ran from Athens to Sparta to deliver the news
         - Miltiades dedicated a helmet after this battle at the temple of Zeus in Olympia
-{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2F7iWyzmdVzH.png?alt=media&token=e6db4764-c1a0-4590-8bdc-082291fde09e" caption="Miltiades' helmet" >}}
     - Greeks have mitigated the Persian threat for a while
 ---
 - [[Xerxes]] (Darius' son) decides to finish what his father has begun
@@ -57,6 +57,7 @@ date: 2022-03-11
             - Greeks, especially Spartans, fought to the death
 				- Around 4,000 greek casualties compared to 10,000–20,000 persian casualties
 			- Leonidas is killed
+{{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2F7iWyzmdVzH.png?alt=media&token=e6db4764-c1a0-4590-8bdc-082291fde09e" caption="Miltiades' helmet" >}}
 - ### Evacuation of Attica
     - [Decree of Themistocles](https://en.wikipedia.org/wiki/Decree_of_Themistocles) orders Athenians to evacuate
     - Persians eventually come to Athens

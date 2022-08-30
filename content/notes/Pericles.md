@@ -3,6 +3,8 @@ series: Ancient Greece
 date: 2022-03-11
 ---
 
+{{< img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pericles_Pio-Clementino_Inv269_n2.jpg/256px-Pericles_Pio-Clementino_Inv269_n2.jpg" caption="A bust of Pericles (Roman copy of the Greek original" >}}
+
 ## Life
 - [[Athens|Athenian]] statesman
 	- Central figure during its golden age

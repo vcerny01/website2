@@ -65,7 +65,7 @@ date: 2022-03-15
 - Signed between both sides
 - Mutual non-agression is to last for 50 years
 	- Disputes are to be solved by arbitration rather than conflict
-- The situation was still tense on many fronts
+- The situation is still tense on many fronts
 	- Sparta tried to get Corinth ally with Thebes against Athens
 	- Athenian general Alcibades got the Peloponnesian states of Ellis and Mantineia to ally with Argos against Spart (==420 BC==)
 		- Combined forces of these three states are defeated at at Argives (==418 BC==)
@@ -113,7 +113,7 @@ date: 2022-03-15
 		- Still a breach in the democratic process
 - #### The Oligarchic Revolution
 	- ==411 BC==
-	- Membership in assembly restricted to 5K wealthiest citizens
+	- Membership in assembly restricted to 5000 wealthiest citizens
 	- A super council of 400 is established
 	- This oligarchy slowly fades away, though, and democracy is restored
 ### The Treaty of Miletus
@@ -131,14 +131,15 @@ date: 2022-03-15
 		- The Spartans offered peace, Athenians declined it
 		- Alcibiades joins the pro-Athenian side
 			- Back in Athens, he was cleared of all charges of impiety and was made a "commander-in-chief"
+				- Morale improves, democracy is fully restored
 			- But after a while, Athenian public opinion shifted, he fled Athens and never returned again
 ### Battle of Arginusae
 - ==406 BC==
 - Battle of Athenian and Spartan fleets
-	- Sparta lost
+	- Athens won, but at a big cost
 - A storm came afterwards, so Athenians failed to pick up their dead
 	- Back in Athens a motion is proposed that the generals be tried for this as a group
-		- That is a completely illegal practice
+		- That was a completely illegal practice (not to mention the trial for capital crime could not be carried out in just one day)
 		- The vote was eventually carried out and six generals were executed (among them one of the sons of Pericles)
 ### Battle of Aegospotami
 - ==406 BC==

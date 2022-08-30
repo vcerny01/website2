@@ -128,8 +128,11 @@ toc: true
 {{< img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FVitecek%2FSOlobuDDjK.png?alt=media&token=467b08d4-6a45-4903-9e95-d21dfa55975c" caption="The long walls" >}}
 - #### Thirty Tyrants ==(404–403 BC)==
 	- Oligarchy imposed by [[Sparta]] after [[Peloponnesian War]]
+		- Led by Critias
+		- Many people are killed during their rule
 	- Civil war starts, Thrasybylus (leader of Athenian democrats) overthrows the thirty
 		- It is said there were no revenge killings, instead there was a joyful procession back up to the Acropolis
+			- Although, as soon as Sparta turned its back on Greece, all the oligarchs were killed
 - [[Socrates]] is put to death for "impiety and corruption of the youth" (==399 BC==)
 - Long walls of Athens are rebuilt (==393 BC==)
 - #### [[Corinthian War]]

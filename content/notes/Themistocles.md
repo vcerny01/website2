@@ -2,6 +2,9 @@
 series: Ancient Greece
 date: 2022-03-11
 ---
+
+{{< img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Greece_from_the_Coming_of_the_Hellenes_to_AD._14%2C_page_109%2C_Themistocles.jpg/256px-Greece_from_the_Coming_of_the_Hellenes_to_AD._14%2C_page_109%2C_Themistocles.jpg" caption="Bust of Themistocles at Vatican Museum" >}}
+
 ## Life
 - Born as an ordinary [[Athens|Athenian]] citizen (rose to influence through personal qualities)
 - Lived ~524‒460 BC

@@ -2,6 +2,9 @@
 series: Ancient Greece
 date: 2022-03-11
 ---
+
+{{< img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Miltiades_%28Roman_replica%29.jpg/256px-Miltiades_%28Roman_replica%29.jpg" caption="A bust of Miltiades" >}}
+
 ## Life
 - Came from a noble [[Athens|Athenian]] family (Philaid clan)
 - Lived ~550–489 BC

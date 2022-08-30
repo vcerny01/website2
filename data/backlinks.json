@@ -254,6 +254,7 @@
         "Corinthian War",
         "Pericles",
         "Alcibiades",
+        "Socrates",
         "Sparta"
     ],
     "Ars Nova": [
@@ -271,7 +272,8 @@
     ],
     "Alcibiades": [
         "Classical Greece",
-        "Peloponnesian War"
+        "Peloponnesian War",
+        "Socrates"
     ],
     "Boeatian War": [
         "Athens",
@@ -293,6 +295,12 @@
         "Music Theory",
         "ABC hudebn\u00ed nauky"
     ],
+    "Socrates": [
+        "Athens",
+        "Sophists",
+        "Socratic Philosophy",
+        "Alcibiades"
+    ],
     "Intervaly": [
         "Music Theory",
         "ABC hudebn\u00ed nauky"
@@ -305,7 +313,6 @@
     "Eleatics": [
         "Presocratic Philosophy"
     ],
-    "socrates": [],
     "Sparta": [
         "Lysander",
         "Athens",
