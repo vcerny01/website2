@@ -37,4 +37,5 @@ In choosing my study material, I found this [guide](https://www.susanrigetti.com
 ### Secondary
 - My old notes
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
+- [Internet Encyclopedia of Philosophy](https://iep.utm.edu/)
 - [Ancient Greek Philosophy: From the Presocratics to the Hellenistic Philosophers](https://www.goodreads.com/book/show/12060341-ancient-greek-philosophy) (Thomas Blackson)

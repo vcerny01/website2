@@ -33,11 +33,16 @@ table {
     border-collapse: collapse;
     margin: 0.5rem;
 }
+th, thead {
+    border-bottom: 4px solid var(--terciary-bg-color);
+}
+
 th, td {
     border: 2px var(--terciary-bg-color) solid;
     margin: 2px;
     padding: 5px;
 }
+
 .backlinks {
     margin-top: 3px;
     max-width: 300px;

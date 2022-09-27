@@ -125,7 +125,7 @@ Other notes by topics:
     link="/notes/ancient-greece" 
     title="Ancient Greece"
     img-src="/images/main/cover-ancient-greece.webp"
-    description="Briefly covering the whole history of Ancient Greece, from the Minoan civilization to Roman occupation. Written in English."
+    description="Briefly covering the whole history of Ancient Greece, from the Minoan civilization to Roman occupati    on. Written in English."
 >}}
 {{< topic
     link="/notes/music-theory"
@@ -138,5 +138,11 @@ Other notes by topics:
     title="Ancient Philosophy"
     img-src="/images/main/cover-ancient-philosophy.webp"
     description="Ancient philosophers, mostly from Greece and Rome. Written in English"
+>}}
+{{< topic
+    link="/notes/latin"
+    title="Latin"
+    img-src="/images/gallery/2020/4/6.webp"
+    description="If you don't know Latin, your opinion doesn't count. I don't make the rules. Written in Czech."
 >}}
 </div>

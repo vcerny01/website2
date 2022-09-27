@@ -52,8 +52,10 @@
     ],
     "Sophists": [
         "Socratic Philosophy",
-        "Presocratic Philosophy"
+        "Presocratic Philosophy",
+        "Socrates"
     ],
+    "persian-wars-battle-of-plataea-battle-of-platea": [],
     "Macedonian Wars": [
         "Ancient Greece",
         "Hellenistic Greece"
@@ -169,7 +171,11 @@
     "school/kvinta/D\u011bjepis/Ran\u00fd st\u0159edov\u011bk": [],
     "school/kvinta/D\u011bjepis/Antick\u00fd \u0158\u00edm 2": [],
     "school/_index": [],
+    "school/sexta/\u010cesk\u00fd jazyk/N\u00e1rodn\u00ed obrozen\u00ed": [],
     "Cool Websites": [],
+    "Historical Development of Latin": [
+        "Latin"
+    ],
     "Ars Antiqua": [
         "\u00davod do studia ton\u00e1ln\u00ed harmonie",
         "Music Theory"
@@ -201,6 +207,9 @@
         "Themistocles",
         "Persian Wars",
         "Classical Greece"
+    ],
+    "Latin Conjugations": [
+        "Latin"
     ],
     "Greek Dark Ages": [
         "Ancient Greece"
@@ -239,6 +248,7 @@
         "Music Theory",
         "ABC hudebn\u00ed nauky"
     ],
+    "Latin": [],
     "Introduction to Ancient Greece": [
         "Ancient Greece"
     ],
