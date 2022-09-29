@@ -1,0 +1,120 @@
+---
+date: 2022-09-27
+---
+
+- v 18. st. ― na konci upadaly
+- Václav Matěj Kramerius
+	- bohaté věno ženy, založil si noviny
+		- 900 předplatitelů
+	- nakladatelství Česká expedice (1791)
+		- kalendáře, krátké knihy (pověsti, lidová četba), příručky
+		- efekt kulturního rozvoje
+- rozvoj vědy 
+	- jazykověda, historie
+	- první vědecké společnosti
+	- Gelasius Dobner
+		- kněz, historik, racionalista
+		- odsoudil Hájkovu Kroniku (vydání častí s korekturami)
+	- František Martin Pelcl
+		- historik, jazykovědec
+		- první profesor ČJ na UK
+		- vydal Nová Kronika Česká
+		- vydání Balbínovy Obrany Češtiny a napsání své
+	- Josef Dobrovský
+		- 1753 - 1829 v Uhrách
+		- jazykovědec, slavistika, historie, numizmatika,...
+		- znal 12 jazyků
+		- studium v Praze, teologie (knězem) (modrý abbé)
+		- vychovatel u Nosticových (významný kulturní rod
+		- psal německy a latinsky
+		- Dějiny České Řeči a Literatury
+			- zachycení vývoje jazyka lit. od počátku do současnosti
+			- hodnocení veleslavínského období
+		- Zevrubná Mluvnice Jazyka Českého
+			- kodifikace spisovné češtiny
+			- bordel v přechodnících
+		- Německo-Český Slovník
+			- slovník
+			- oživování starších slov, utváření nových
+		- Prozódie
+			- ffef
+	- Josef Jungmann
+		- 1773 - 1847
+		- jazykovědec, překladatel, učitel, později rektorem UK
+		- shromáždil školu pro jazykovědu
+		- psal svá díla v češtině
+		- Slovesnost
+			- lit. učebnice pro gymnázia
+			- obsahuje ukázky ze starších lit. období 
+		- Historie Literatury České
+			- svazky na různé doby 
+			- popis společnosti, jazyka a kultury 
+			- několik set (1500) českých autorů a soupis všech jejich vydaných děl (7000)
+		- Slovník Česko-Německý
+			- vytváření nových slov 
+	- Pavel Josef Šafařík
+		- 1795-1861
+		- zastával myšlenky panslavismu
+			- = ''všeslovanství'' (všichni slované jsou jedno)
+		- zakladatel archeologie
+		- Slovanské Starožitnosti
+			- snaha dokázat stáří slovanů (podobně jako řecko a řím)
+		- Dějiny Slovanské Řeči a Litratury v Nářečích
+			- věnování se nejstarší historii slovanů
+	- František Palacký
+		- 1798 - 1876
+		- studium v Bratislavě
+		- setkání s Dobrovským
+			- práce pro šlechtické rody > genealogie, archivy, dějiny čech
+		- Dějiny Národu Českého v Čechách i v Moravě
+			- 2 díly německy, 3 česky
+			- popis střetu čechů a němců do nástupu Habsburků (1526)
+	- Divadlo v Kotcích
+		- první hra 1771
+		- primárně němčina
+		- zavřeno 1783
+		- Kníže Honzík
+			- Chytí slavíka a zbohatne
+#### Divadla
+- lidová fraška, komedie, historické vlastenecké hry 
+- Divadlo v Kotcích
+	- první hra 1771
+	- primárně němčina
+	- zavřeno 1783
+	- Kníže Honzík
+		- Chytí slavíka a chce na něm zbohatnout
+- Stavovské divadlo (Nosticovo, Tylovo)
+	- primárně němčina
+- Divadlo bouda
+	- vlastenecké divadlo 
+	- 1786-1789 (strženo)
+		- dřevostavba 
+- Bratři Thámové
+	- Václav, Karel Ignác
+	- organizovali hry
+		- Václav >200 her (pravděpodobně vlastenecké tématiky)
+			- Vlasta & Šárka
+	- jazyk, poezie
+- Václav Kliment Klicpera
+	- učil Jungmanna
+	- divadlo v Hradci Kr.
+	- psal komedie 
+		- motiv vydávání se ze jiné osoby
+		- Divotvorný Klobouk
+			- placení, hospoda, závěť
+		- Rohovín Čtverrohý
+		- Hadrián z Římsů
+
+#### Poezie
+- almanachy (často veřejně recitované)
+- Thámovci
+	- básnici kolem bratrů
+	- zastánci sylabismu
+		- pravydelný rytmus ve verši
+	- Básně v Řeči Vázané
+		- vlastní tvorba, anakreontika (překlady), starší literatura
+- Puchmajerovci
+	- 5 almanachů
+        - *Sebrání básní a zpěvů*
+            - Vlastní tvorba a překlady
+    -  Antonín Miroslav Puchajer

@@ -25,21 +25,22 @@ Zahrnuje všechna pravidelná slovesa, jejichž prézenční kmen končí vokál
 
 ### Indikativ prézentu
 
-- Infinitiv prézentu aktiva: *-|a-re*
-- Imperativ prézentu aktiva: *-|a* (2. sg), *-|ate* (2. pl.)
-- Infinitiv prézentu pasiva: *-|a-r|i*
+- Infinitiv prézentu aktiva: *-ā-re*
+- Imperativ prézentu aktiva: *-ā* (2. sg), *-|ate* (2. pl.)
+- Infinitiv prézentu pasiva: *-ā-rī*
+- Participum prézentu: *-ā-ns*
 
 | **Ind. préz. akt.** |  **Sg.**      |  **Pl.**        |
 | ------------------- | ------------- | --------------- |
-| 1.                  |  *laud-\|o*   |  *laud-\|a-mus* |
-| 2.                  |  *laud-\|a-s* |  *laud-\|a-tis* |
+| 1.                  |  *laud-ō*     |  *laud-ā-mus*   |
+| 2.                  |  *laud-ā-s*   |  *laud-ā-tis*   |
 | 3.                  |  *laud-a-t*   |  *laud-a-nt*    |
 
 | **Ind. préz. pas.** |  **Sg**.        |  **Pl.**           |
 | ------------------- | --------------- | ------------------ |
-| 1.                  |  *laud-o-r*     |  *laud-\|a-mur*    |
-| 2.                  |  *laud-\|a-ris* |  *laud-\|a-min\|i* |
-| 3.                  |  *laud-\|a-tur* |  *laud-a-ntur*     |
+| 1.                  |  *laud-o-r*     |  *laud-ā-mur*      |
+| 2.                  |  *laud-ā-ris*   |  *laud-ā-min\|i*   |
+| 3.                  |  *laud-ā-tur*   |  *laud-a-ntur*     |
 
 ### Indikativ imperfekta
 
@@ -47,15 +48,15 @@ Tvorba: prézentní kmen + formant ***ba-*** + osobní přípona prézentu (vyjm
 
 | **Ind. impf. akt.** |  **Sg.**               |  **Pl.**                 |
 | ------------------- | ---------------------- | ------------------------ |
-| 1.                  |  *laud-\|a-**ba**-m*   |  *laud-\|a-**b\|a**-mus* |
-| 2.                  |  *laud-\|a-**b\|a**-s* |  *laud-\|a-**b\|a**-tis* |
-| 3.                  |  *laud-\|a-**ba**-t*   |  *laud-\|a-**ba**-nt*    |
+| 1.                  |  *laud-ā-**ba**-m*     |  *laud-ā-**bā**-mus*     |
+| 2.                  |  *laud-ā-**bā**-s*     |  *laud-ā-**bā**-tis*     |
+| 3.                  |  *laud-ā-**ba**-t*     |  *laud-ā-**ba**-nt*      |
 
 | **Ind. impf. pas.** |  **Sg.**                 |  **Pl.**                    |
 | ------------------- | ------------------------ | --------------------------- |
-| 1.                  |  *laud-\|a-**ba**-r*     |  *laud-\|a-**b\|a**-mur*    |
-| 2.                  |  *laud-\|a-**b\|a**-ris* |  *laud-\|a-**b\|a**-min\|i* |
-| 3.                  |  *laud-\|a-**b\|a**-tur* |  *laud-\|a-**ba**-ntur*     |
+| 1.                  |  *laud-ā-**ba**-r*       |  *laud-ā-**bā**-mur*        |
+| 2.                  |  *laud-ā-**bā**-ris*     |  *laud-ā-**bā**-min\|i*     |
+| 3.                  |  *laud-ā-**bā**-tur*     |  *laud-ā-**ba**-ntur*       |
 
 ### Indikativ futura
 
@@ -63,12 +64,12 @@ Tvorba: prézentní kmen + formant ***-b-*** + osobní přípona prézentu
 
 | **Ind. fut. akt.** |  **Sg.**             |  **Pl.**               |
 | ------------------ | -------------------- | ---------------------- |
-| 1.                 |  *laud\|a-**b**-\|o* |  *laud\|a-**b**-imus*  |
-| 2.                 |  *laud\|a-**b**-is*  |  *laud\|a-**b**-itis*  |
-| 3.                 |  *laud\|a-**b**-it*  |  *laud\|a-**b**-unt*   |
+| 1.                 |  *laudā-**b**-ō*     |  *laudā-**b**-imus*    |
+| 2.                 |  *laudā-**b**-is*    |  *laudā-**b**-itis*    |
+| 3.                 |  *laudā-**b**-it*    |  *laudā-**b**-unt*     |
 
 | **Ind. fut. pas.** |  **Sg.**              |  **Pl.**                 |
 | ------------------ | --------------------- | ------------------------ |
-| 1.                 |  *laud\|a-**b**-or*   |  *laud\|a-**b**-imur*    |
-| 2.                 |  *laud\|a-**b**-eris* |  *laud\|a-**b**-imin\|i* |
-| 3.                 |  *laud\|a-**b**-itur* |  *laud\|a-**b**-untur*   |
+| 1.                 |  *laudā-**b**-or*     |  *laudā-**b**-imur*      |
+| 2.                 |  *laudā-**b**-eris*   |  *laudā-**b**-imin\|i*   |
+| 3.                 |  *laudā-**b**-itur*   |  *laudā-**b**-untur*     |
