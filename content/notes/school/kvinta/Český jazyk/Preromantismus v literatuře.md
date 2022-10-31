@@ -3,7 +3,7 @@ date: 2022-06-06
 series: Český jazyk
 ---
 
-## Prerormantismus
+## Původ
 - Reakce na klasicismus a osvícenství
 - Také znám jako sentimentalismus
     - Kladl důraz na city

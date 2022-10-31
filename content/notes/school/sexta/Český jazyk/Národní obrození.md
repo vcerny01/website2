@@ -2,119 +2,164 @@
 date: 2022-09-27
 ---
 
-- v 18. st. ― na konci upadaly
-- Václav Matěj Kramerius
-	- bohaté věno ženy, založil si noviny
-		- 900 předplatitelů
-	- nakladatelství Česká expedice (1791)
-		- kalendáře, krátké knihy (pověsti, lidová četba), příručky
-		- efekt kulturního rozvoje
-- rozvoj vědy 
-	- jazykověda, historie
-	- první vědecké společnosti
-	- Gelasius Dobner
-		- kněz, historik, racionalista
-		- odsoudil Hájkovu Kroniku (vydání častí s korekturami)
-	- František Martin Pelcl
-		- historik, jazykovědec
-		- první profesor ČJ na UK
-		- vydal Nová Kronika Česká
-		- vydání Balbínovy Obrany Češtiny a napsání své
-	- Josef Dobrovský
-		- 1753 - 1829 v Uhrách
-		- jazykovědec, slavistika, historie, numizmatika,...
-		- znal 12 jazyků
-		- studium v Praze, teologie (knězem) (modrý abbé)
-		- vychovatel u Nosticových (významný kulturní rod
-		- psal německy a latinsky
-		- Dějiny České Řeči a Literatury
-			- zachycení vývoje jazyka lit. od počátku do současnosti
-			- hodnocení veleslavínského období
-		- Zevrubná Mluvnice Jazyka Českého
-			- kodifikace spisovné češtiny
-			- bordel v přechodnících
-		- Německo-Český Slovník
-			- slovník
-			- oživování starších slov, utváření nových
-		- Prozódie
-			- ffef
-	- Josef Jungmann
-		- 1773 - 1847
-		- jazykovědec, překladatel, učitel, později rektorem UK
-		- shromáždil školu pro jazykovědu
-		- psal svá díla v češtině
-		- Slovesnost
-			- lit. učebnice pro gymnázia
-			- obsahuje ukázky ze starších lit. období 
-		- Historie Literatury České
-			- svazky na různé doby 
-			- popis společnosti, jazyka a kultury 
-			- několik set (1500) českých autorů a soupis všech jejich vydaných děl (7000)
-		- Slovník Česko-Německý
-			- vytváření nových slov 
-	- Pavel Josef Šafařík
-		- 1795-1861
-		- zastával myšlenky panslavismu
-			- = ''všeslovanství'' (všichni slované jsou jedno)
-		- zakladatel archeologie
-		- Slovanské Starožitnosti
-			- snaha dokázat stáří slovanů (podobně jako řecko a řím)
-		- Dějiny Slovanské Řeči a Litratury v Nářečích
-			- věnování se nejstarší historii slovanů
-	- František Palacký
-		- 1798 - 1876
-		- studium v Bratislavě
-		- setkání s Dobrovským
-			- práce pro šlechtické rody > genealogie, archivy, dějiny čech
-		- Dějiny Národu Českého v Čechách i v Moravě
-			- 2 díly německy, 3 česky
-			- popis střetu čechů a němců do nástupu Habsburků (1526)
-	- Divadlo v Kotcích
-		- první hra 1771
-		- primárně němčina
-		- zavřeno 1783
-		- Kníže Honzík
-			- Chytí slavíka a zbohatne
-#### Divadla
-- lidová fraška, komedie, historické vlastenecké hry 
-- Divadlo v Kotcích
-	- první hra 1771
-	- primárně němčina
-	- zavřeno 1783
-	- Kníže Honzík
-		- Chytí slavíka a chce na něm zbohatnout
-- Stavovské divadlo (Nosticovo, Tylovo)
-	- primárně němčina
-- Divadlo bouda
-	- vlastenecké divadlo 
-	- 1786-1789 (strženo)
-		- dřevostavba 
-- Bratři Thámové
-	- Václav, Karel Ignác
-	- organizovali hry
-		- Václav >200 her (pravděpodobně vlastenecké tématiky)
-			- Vlasta & Šárka
-	- jazyk, poezie
-- Václav Kliment Klicpera
-	- učil Jungmanna
-	- divadlo v Hradci Kr.
-	- psal komedie 
-		- motiv vydávání se ze jiné osoby
-		- Divotvorný Klobouk
-			- placení, hospoda, závěť
-		- Rohovín Čtverrohý
-		- Hadrián z Římsů
+Taken from [Petr Geršl](https://pgersl.xyz/notes/school/czech/literature/literary-history/national-awakening/):
 
-#### Poezie
-- almanachy (často veřejně recitované)
-- Thámovci
-	- básnici kolem bratrů
-	- zastánci sylabismu
-		- pravydelný rytmus ve verši
-	- Básně v Řeči Vázané
-		- vlastní tvorba, anakreontika (překlady), starší literatura
-- Puchmajerovci
-	- 5 almanachů
-        - *Sebrání básní a zpěvů*
-            - Vlastní tvorba a překlady
-    -  Antonín Miroslav Puchajer
+## Historický kontext
+- od roku 1526 Češi jsou pod nadvládou Habsburků
+- vyšla Bible kralická - vzor češtiny
+- po potlačení povstání v roce 1623 nastal větší útlak
+    - náboženská nesvoboda
+- následovala emigrace české inteligence
+- čeština postupně upadá a je používaná primárně na venkově
+- v půlce 18. století přišli centralistické reformy
+    - nebrali vůbec ohled na národnost
+    - určili němčinu jako úřední jazyk
+    - všechny vysoké úřady byli ve Vídni
+    - povinná školní docházka
+- vydání tolerančníh patentu
+    - povolilo více vyznání
+    - zručení jezuitského státu
+    - uvolnění cenzury
+- do Čech se některá inteligence vrací
+- národní obrození začíná v 70. letech 18. století a pokračuje do půlky 19. století
+## Obranná fáze
+- 70. léta 18. století - 1805
+- píše se ve stylu [klasicismu a osvícenství](/notes/school/czech/literature/literary-history/literature-of-the-classical-era)
+- dochází k obhajobě češtiny a české historie
+- rozvijí se věda a historie
+    - z vědy se rozvijí primárně lingvistika
+- vznikají první divadla a noviny
+### Václav Matěj Kramerius
+- vydával noviny - _Krameriusovy c.k. vlastenecké noviny_
+    - vycházely dvakrát týdně
+    - měli 900 předplatitelů
+    - _c.k._ - císařsko-královské
+- založil nakladatelství - _Česká expedice_
+    - existovalo od roku 1791
+    - vydával nejdřív kalendáře, lidové knihy a pohádky
+### Gelasius Dobner
+- významný kněz a historik
+- byl to velký vlastenec
+- rozlišoval pravdivé a smyšlené
+- kriticky procházel českou historii
+- vydal _Hájkovu kroniku_ s kritickými poznámkami
+- nejvíce se věnoval období husitství
+### František Martin Pelcl
+- historik a jazykovědec
+- první profesor češtiny na pražské univerzitě
+- vydal _Novou kroniku českou_
+- věnoval se primárně období vlády Karla IV.
+- vydával obrany češtiny
+    - napsal i svoji vlastní v latině
+        - později byla přeložena do češtiny
+### Josef Dobrovský
+- 1753 - 1829
+- jazykovědec a historik
+- založil obor _slavistika_ (nauka o Slovanech)
+- vystudoval teologii a ovládal 12 jazyků
+- stal se vychovatelem ve šlechtické rodině Nosticů
+    - byli jeho mecenáši
+- psal německy a latinou
+#### Dílo
+##### Dějiny české řeči a literatury
+- napsáno německy
+- systematicky zachycuje vývoj české literatury a jazyka
+- nejvýše staví Veleslavínské období a pokládá ho za vzorové
+##### Zevrubná mluvnice jazyka českého
+- je to kodifikace soudobé mluvené češtiny
+- čerpal primárně z Veleslavínské češtiny
+##### Německo-český slovník
+- oživoval stará slova
+- odvozoval nová slova
+- další slova přejímal z jiných slovanských jazyků (polština, ruština)
+- má dva svazky
+## Ofenzivní fáze
+- 1805 - 20. léta 19. století
+- píše se ve stylu [preromantismu](/notes/school/czech/literature/literary-history/literature-of-the-romantic-period#preromantismus)
+- prudký rozvoj češtiny
+- pokračuje rozvoj slavistiky a lingvistiky
+### Josef Jungmann
+- 1773 - 1847
+- významný jazykvědec
+- _Jungmannova jazyková škola_
+    - byla to skupina Jungmannových spolupracovníků
+    - spolupracovali na mnohých dílech, které považujeme za Jungmannova vlastní
+#### Dílo
+##### Slovesnost
+- učebnice pro gymnázia o literatuře
+- je doplněna dobovými ukázkami
+##### Historie literatury české
+- několikasvazkové dílo
+- zabývá se nejstarší literaturou
+- je velmi podrobná a obshauje historicko-společenský kontext
+- obsahovala všechna díla jmenovaných autorů
+    - bylo jich asi 1500
+##### Slovník česko-německý
+- je pětidílný
+- pracovala na něm celá Jungmannova škola
+### Pavel Josef Šafařík
+- 1795 - 1861
+- _panslavismus_
+    - přesvědčení, že slované jsou jeden národ a slovanské jazyky jsou dialekty jednoho jazyka
+- psal česky
+#### Dílo
+##### Slovanské starožitnosti
+- popisuje nejstarší dějiny Slovanů
+##### Dějiny slovanské řeči a literatury v nářečích
+- popisuje historii literatury do 10. století
+### František Palacký
+- pocházel z Moravy a studoval Bratislavě
+- nejvýznamnější historik a vědec
+- znal se s Dobrovským
+    - poradil mu, aby pracoval pro rody
+        - dělal pro ně genealogii
+        - měl mimořádný přístup k různým archivům
+- věnoval se politice
+- vlastenci ho neměli rádi
+    - neuznával češšství
+#### Dílo
+##### Dějiny národa českého v Čechách a v Moravě
+- od nejstarších dějin do roku 1526
+- popisuje historii Čechů a jejich konflikt s Němci
+- nejvýše hodnotí husitství
+- pět dílů (2 německy, 3 česky)
+## Vrcholná fáze
+- 30. až 40. léta 19. století
+- píše se ve stylu [romantismu](/notes/school/czech/literature/literary-history/literature-of-the-romantic-period#světový-romantismus)
+- vznikají první památky srovnatelné se zahraničním literární uměním
+## Revoluční fáze
+- 40. až 50. léta 19. století
+- píše se ve stylu realismu
+- vznikají nové spolky
+## Divadlo
+### Divadlo v kotcích
+- hrálo se v něm od roku 1739
+- hry byly v němčině
+- 1771 - první česká hra (_Kníže Honzík_)
+- 1773 - zavřeno
+### Stavovské divadlo
+- bylo vystavěné rodinou Nosticů
+- bylo věnováno českým stavům
+- hrálo se primáně německy
+### Bouda
+- bylo střeženo kvůli bezpečnostním předpisům
+### Václav a Karel Ignác Thámovi
+- věnovali se divadlům
+- jejich hry byli oblíbené
+- organizovaly představení v češtině
+- Václav Thám napsal přes 200 her
+## Poezie
+### Thámovci
+- byla to básnická škola postavená okolo bratrů Thámových
+- prosazovali _sylabismus_
+- vydávali almanachy
+    - jsou to sbírky překladů, vlastní tvorby a starších děl
+    - _Almanach Písně řeči vázané_
+### Puchmajerovci
+- byla to básnická škola založená kolem Antonína Jaroslava Puchmajera
+    - psal ódy
+- prosazovali _sylkabotonismus_
+- také vydávaly almanachy
+    - _Almanach sebrání básní a zpěvů_
+- **Šebestián Hněvkovský**
+    - psal eposy s historickými náměty

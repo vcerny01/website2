@@ -29,7 +29,7 @@ Sufixy jednotlivých pádů postupně splývaly s kmenovým vokálem, proto se v
 | 4.        |  *currus*     |  *curr-**ūs***          |
 | 5.        |  *diēs (rēs)* |  *di-**ēī** (r-**eī**)* |
 
-## 1. deklinace
+## 1. deklinace;
 Zahrnuje substantiva s kmenovým vokálem ***-a-***:
 
 nom. sg. ***-a***, gen.sg ***-ae***

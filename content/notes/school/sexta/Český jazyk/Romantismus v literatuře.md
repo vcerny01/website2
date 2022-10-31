@@ -39,3 +39,9 @@ series: Český jazyk
         - Hlavní hrdina je šlechtic Harold
             - Ten je nespokojený se společností a životem společenské smetánky, takže odchází od rodiny a putuje Evropou a nechává se unášet minulostí evropských národů a při tom bojuje proti nesvobodě
         - Postupně ubýhá dějovosti a přechází spíše do filosofických úvah
+
+### Jane Austen
+
+## Ve Francii
+### Victr Hug
+- Je 
