@@ -3,7 +3,7 @@ date: 2022-09-25
 ---
 
 ## Introduction
-Latina byla (a do jisté míry stále je) jedním z hlavních pilířů klasického vzdělání. Otázkou tedy je nikoliv jestli má latina vůbec smysl, ale proč má smysl. Myslím, že můžeme načrtnout několik důvodů:
+Latina byla (a do jisté míry stále je) jedním z hlavních pilířů klasického vzdělání. Proč? Myslím, že můžeme načrtnout několik důvodů:
 
 1. **Gramatika**
 
@@ -19,7 +19,9 @@ Většina jižní Evropy (a skrze ně i Jižní Amerika a další části koloni
 
 ## Notes
 - [[Historical Development of Latin]]
+- [[Latin Alphabet and Spelling]]
 - [[Latin Conjugations]]
+- [[Latin Declinations]]
 
 
 ## Sources
