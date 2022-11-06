@@ -1,17 +1,45 @@
 ---
 date: 2022-09-27
 ---
+## Úvod do časování
+### Základní odborné výrazy
 
-## Základní typy a osobní přípony
+| název                 | latinský název             | zkratka | český ekvivalent                                 |
+| --------------------- | -------------------------- | ------- | ------------------------------------------------ |
+| **konjugace**         | *coniugātiō*               |         | časování                                         |
+| **indikativ**         | *modus indicātīvus*        | ind.    | oznamovací způsob                                |
+| **imperativ**         | *modus imperātīvus*        | imper.  | rozkazovací způsob                               |
+| **konjuktiv**         | *modus coniūnctīvus*       | konj.   | spojovací způsob (čeština nemá)                  |
+| **inifinitiv**        | verbum īnfīnītum           | inf.    | neurčitý způsob                                  |
+| **pasivum**           | *genus passīvum*           | akt.    | slovesný rod činný                               |
+| **aktivum**           | *genus āctivum*            | pas.    | slovesný rod trpný                               |
+| **singulár**          | *numerus singulāris*       | sg.     | jednotné číslo                                   |
+| **plurál**            | *numerus plūrālis*         | pl.     | množné číslo                                     |
+| **prézens**           | *tempus praesens*          | préz.   | přítonmý čas                                     |
+| **futurum**           | *tempus futūrum*           | fut.    | budoucí čas                                      |
+| **imperfektum**       | *tempus imperfektum*       | impf.   | nedokonavý předpřítomný čas (čeština nemá)       |
+| **perfektum**         | *tempus perfektum*         | pf.     | dokonavý předpřítomný čas (čeština nemá)         |
+| **plusquamperfektum** | *tempus plusquamperfectum* | plsqpf. | předminulý čas (čeština nemá)                    |
+| **participum**        | *participum*               | ptc.    | (čeština nemá)                                   |
+| **supinum**           | *supīnum*                  |         | (čeština supinum už nemá, splynulo s infinitivem) |
 
-Latinská slovesa se dělí do čtyř typů časování (konjugací) podle prézentního kmene: 
+### Slovesné třídy
+- Latinská slovesa se dělí do čtyř slovesných tříd - **konjugací**:
 
-| **Konjugace** |  **ind. préz. akt.** |  **inf. préz. akt**. |  **prézentní kmen** |
-| ------------- | -------------------- | -------------------- | ------------------- |
-| 1.            |  *laud-ō*            |  *laud-ā-re*         |  *laud-ā-*          |
-| 2.            |  *dēle-ō*            |  *dēl-ē-re*          |  *dēl-ē-*           |
-| 3.            |  *leg-ō*             |  *leg-ere*           |  *leg-*             |
-| 4.            |  *audi-ō*            |  *aud-ī-re*          |  *aud-ī*            |
+|             | koncovka | vzorové sloveso |
+| ----------- | -------- | --------------- |
+| 1.konjugace | **-āre** | *laudāre*       |
+| 2.konjugace | **-ēre** | *dēlēre*        |
+| 3.konjugace | **-ere** | *carpere*       |
+| 4.konjugace | **-īre** | *audīre*        |
+
+### Slovesné kmeny
+- Každé latinské sloveso má tři slovesné kmeny: prézentní, perfektní a supinový
+    - V latinském slovníku se proto uvádí u latinských sloves: 1. os. sg. ind. préz., inf. préz., 1. os. sg. akt. ind. pf. a supinum
+        - U českého překladu se uvádí pouze infinitiv
+        - Např.: **laudō**, *-āre*, *-āvī*, *-ātum*
+
+### Osobní přípony
 
 Ve všech časech a způsobech, které se tvoří od prézentního kmene (prézens, futurum, imperfektum), se připojují tytéž osobní přípony:
 
