@@ -62,6 +62,9 @@ series: Český jazyk
 - Dílo
     - *Waverly*
         - Povstání Skotska proti Anglii (inspirováno skutečnými událostmi)
+    - *Svanhoe*
+        - Ve 12. stol., král Richard bojuje o svobodu
+        - Motivy rytířských ctností
 
 ### Jane Austen
 - Spisovatelka
@@ -76,7 +79,20 @@ series: Český jazyk
 
 ## Ve Francii
 ### Victor Hugo
-[Doplnit]
+- Uznváný a politicky aktivní spisovatel
+    - Odpůrce Napoleona III.
+    - Na čas odchází do exilu
+    - Velký státní pohřeb (v Pantheonu)
+- Dílo
+    - Romány, básně, drama
+    - *Chrám matky boží v Paříži*
+        - Historický (15. st.)
+        - Tragická láska, vyšší společnost x lúza
+    - *Bídníci*
+        - Biskup ubytuje Jean Valjana u sebe doma
+            - Jean mu ukradne stříbrné lžičky a je dopaden
+            - Biskup se za něj přimluví
+        - Jean se nakonec starostou města
 
 ### Stendhal
 - Psal pod pseudonymem
@@ -93,6 +109,7 @@ series: Český jazyk
             - Svoji první milenku po hádce zastřelí
                 - U soudu odmítne veškerou obhajobu a je popraven
     - *Kartouza Parmská*
+        - Střet ideálů a reality
         - Hlavním hrdinou je mladý muž, který tráví dlouhý čas ve vězení
             - Venku zanechal svoji milenku, která se mezitím vdala
         - Když se dostane z vězení opět se svojí milenkou naváže vztah a zplodí spolu dítě
@@ -132,10 +149,14 @@ series: Český jazyk
         - První dílo, ve kterém se objevuje archetyp **zbytečného člověka**
             - Není pro společenost užitečný
             - Celý život promarní vlastní vinou
+        - Oněgin, Lenský, Taťána
     - *Piková dáma*
-        - Novela
-        - Vypráví o zbytečném člověku, který propadne hazardu a po velké prohře páchá sebevraždu
+        - Povídka
+        - Fantastický námět
     - *Boris Godunov*
+        - Drama, tragédie
+    - *Kapitánská dcerka*
+        - Historická novela
 
 ### Michal Jurjevič Lermontov
 - Původem z aristokratické rodiny
@@ -152,6 +173,7 @@ series: Český jazyk
         - **Démonismus**
             - Démon je odsouzen bohem, ale i přesto se snaží marně dosáhnout štěstí
     - *Hrdina naší doby*
+        - Mladý šlechtic Pečorin (zbytečný člověk) marně hledá životní cíle
 
 ## V Německu
 ### Bratři Grimmové
