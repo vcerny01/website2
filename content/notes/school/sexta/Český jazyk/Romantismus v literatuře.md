@@ -62,11 +62,11 @@ series: Český jazyk
 - Dílo
     - *Waverly*
         - Povstání Skotska proti Anglii (inspirováno skutečnými událostmi)
-    - *Svanhoe*
+    - *Ivanhoe*
         - Ve 12. stol., král Richard bojuje o svobodu
         - Motivy rytířských ctností
 
-### Jane Austen
+### Jane Austenová
 - Spisovatelka
 - Motivy venkovské šlechty
 - Dílo
@@ -281,6 +281,15 @@ series: Český jazyk
 - Dílo
     - Poezie
         - *Máj*
+            - Byronská povídka
+            - Popisy přírody a reflexivní lyrika
+            - Dedikace + 4 zpěvy + 2 mezizpěvy
+            - Příběh
+                - Vilém vyrůstal s loupšžníky
+                    - Nikdy nepoznal rodiče
+                - Zabil nápadníka své milé (jeho otce)
+                    - Za vraždu je odsouzen a popraven
+                    - Jarmila (jeho milá) spáchá sebevraždu
     - Povídky
         - Většinou reflexivní povahy
         - *Obrazy ze života mého*
@@ -295,4 +304,3 @@ series: Český jazyk
             - Putování osamělého poutníka
     - Drama
         - Historická trilogie *Boleslav*, *Bratrovrah* a *Bratři*
-    - 

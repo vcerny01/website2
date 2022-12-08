@@ -21,7 +21,7 @@ Většina jižní Evropy (a skrze ně i Jižní Amerika a další části koloni
 - [[Historical Development of Latin]]
 - [[Latin Alphabet and Spelling]]
 - [[Latin Conjugations]]
-- [[Latin Declinations]]
+- [[Latin Declensions]]
 
 
 ## Sources
