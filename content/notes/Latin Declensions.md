@@ -101,5 +101,5 @@ date: 2022-10-11
 | 2.  | verb***ī***   | verb***ōrum*** |
 | 3.  | verb***ō***   | verb***īs***   |
 | 4.  | verb***um***  | verb***a***    |
-| 5.  | verb***um***! | verb**a****!   |
+| 5.  | verb***um***! | verb***a***!   |
 | 6.  | verb***ō***   | verb***īs***   |

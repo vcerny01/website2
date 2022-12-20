@@ -9,7 +9,7 @@ var data;
 fetchJSON('/index.json').then(resp => {
 	data = resp;
 	document.addEventListener("keydown", (event) => {
-	if (event.ctrlKey && event.key === "o"){
+	if ((event.ctrlKey || event.metaKey)  && event.key === "o"){
 		event.preventDefault();
 		loadSearch();
 	}
